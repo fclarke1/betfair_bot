@@ -5,19 +5,26 @@ from datetime import datetime
 
 
 
-def save_new_rows(file_path: str, data: pd.DataFrame):
+def save_rows(file_path: str, data: pd.DataFrame, is_save_only_new_data: bool=True):
     
     # if csv doesn't exist save down what we have then load saved data
     if not os.path.exists(file_path):
         data.to_csv(file_path, index=False)
+        # we have just saved all data in an empty csv so can break out of loop
+        return
     df_csv = pd.read_csv(file_path, dtype=str)
 
-    # get a df of only the new events since the last save
-    is_new_data = ~data['id'].isin(df_csv['id'])  # ~ negates the boolean df
-    new_data = data[is_new_data]
-
+    # if saving only new data, create a df of data that isn't already in the csv
+    if is_save_only_new_data:
+        # get a df of only the new events since the last save
+        is_new_data = ~data['id'].isin(df_csv['id'])  # ~ negates the boolean df
+        data_to_save = data[is_new_data]   
+    # else we are saving all the data given
+    else:
+        data_to_save = data
+    
     # create the complete list of all events
-    all_data = pd.concat([df_csv, new_data], ignore_index=True)
+    all_data = pd.concat([df_csv, data_to_save], ignore_index=True)
 
     # save the new events
     all_data.to_csv(file_path, index=False)

@@ -119,7 +119,7 @@ class BetfairClient:
                 runner_data['runner_name'].append(runner_obj.runner_name)
                 runner_data['handicap'].append(runner_obj.handicap)
                 runner_data['market_id'].append(market_obj.market_id)
-        runner_catalogue = pd.DataFrame(runner_data)
+        runner_catalogue = pd.DataFrame(runner_data, dtype=str)
         
         return market_catalogue, runner_catalogue
 
@@ -171,6 +171,6 @@ class BetfairClient:
                 runner_data['handicap'].append(runner_obj.handicap)
                 runner_data['market_id'].append(market_obj.market_id)
                 runner_data['record_date'].append(current_time.strftime("%Y-%m-%d %H:%M"))
-        runner_prices = pd.DataFrame(runner_data)
+        runner_prices = pd.DataFrame(runner_data, dtype=str)
         
         return runner_prices

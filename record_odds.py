@@ -22,9 +22,6 @@ def record_odds(bf_client: client.BetfairClient, my_event_type: str, data_dir: s
     # get baseball events
     events = bf_client.get_events()
 
-    # save the new events since last refresh
-    utils.save_new_rows(file_path=file_paths['events'], data=events)
-
     # get market and runner data
     market_catalogue, runner_catalogue = bf_client.get_market_runner_catalogues(
         event_ids=events['id'].tolist(),
@@ -39,9 +36,10 @@ def record_odds(bf_client: client.BetfairClient, my_event_type: str, data_dir: s
     runner_prices = bf_client.get_runner_odds(market_ids=market_ids)
 
     # save the new data since last refresh
-    utils.save_new_rows(file_path=file_paths['marketCatalogue'], data=market_catalogue)
-    utils.save_new_rows(file_path=file_paths['runnerCatalogue'], data=runner_catalogue)
-    utils.save_new_rows(file_path=file_paths['runnerPrice'], data=runner_prices)
+    utils.save_rows(file_path=file_paths['events'], data=events)
+    utils.save_rows(file_path=file_paths['marketCatalogue'], data=market_catalogue)
+    utils.save_rows(file_path=file_paths['runnerCatalogue'], data=runner_catalogue)
+    utils.save_rows(file_path=file_paths['runnerPrice'], data=runner_prices, is_save_only_new_data=False)
 
 
 def main(args):
@@ -58,12 +56,13 @@ def main(args):
         bf_client.login()
         record_odds(bf_client=bf_client, my_event_type=args.event_type, data_dir=args.data_dir)
         bf_client.logout()
-        print('data recorded...')
+        print('data recorded')
         
         # sleep until another refresh is due
         print('sleeping...safe to exit')  # print when sleeping so user can cancel program when not saving data
         time.sleep(sleep_time)
-        print('awake...do not exit')
+        print('awake...do not exit...', end='')
+        time.sleep(3)  # gives a buffer to exit safely even after waking
         
 
 if __name__ == '__main__':
