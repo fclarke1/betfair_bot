@@ -44,8 +44,9 @@ def record_odds(bf_client: client.BetfairClient, my_event_type: str, data_dir: s
 
 def main(args):
     # print summary to terminal:
-    print(f'\nRecording odds from all games of {args.event_type} every {args.refresh_rate} hours\n')
-    
+    print(f'\nRecording odds from all games of {args.event_type}')
+    if args.is_run_once == 'False':
+        print('Completed every {args.refresh_rate} hours\n')    
     
     # create client to interact with Betfair
     bf_client = client.BetfairClient(path_creds=args.creds_dir+'/credentials.json')
@@ -53,22 +54,29 @@ def main(args):
     # every refresh_rate hours -> login, get data, then logout
     sleep_time = float(args.refresh_rate) * 60 * 60  # sleep time in seconds
     while True:
+        # record data
         bf_client.login()
         record_odds(bf_client=bf_client, my_event_type=args.event_type, data_dir=args.data_dir)
         bf_client.logout()
         print('data recorded')
+        
+        # if loop only needs to run once then break
+        if args.is_run_once == 'True':
+            break
         
         # sleep until another refresh is due
         print('sleeping...safe to exit')  # print when sleeping so user can cancel program when not saving data
         time.sleep(sleep_time)
         print('awake...do not exit...', end='')
         time.sleep(3)  # gives a buffer to exit safely even after waking
-        
+    
+    print('Program exit')
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Record the odds regularly for every event for the given eventType')
     
     parser.add_argument('--data_dir', default='data', help='Path to csv folder, default=data')
+    parser.add_argument('--is_run_once', default='True', help='Bool to set if program runs once or continuously, default=True')
     parser.add_argument('--refresh_rate', default='4', help='Frequency of data refresh in hours, default=4')
     parser.add_argument('--event_type', default='Baseball', help='Event to be tracked, default=Baseball')
     parser.add_argument('--creds_dir', default='certs', help='Path to folder containing credentials.json, default=certs')
