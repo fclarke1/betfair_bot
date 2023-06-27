@@ -46,7 +46,7 @@ def main(args):
     # print summary to terminal:
     print(f'\nRecording odds from all games of {args.event_type}')
     if args.is_run_once == 'False':
-        print('Completed every {args.refresh_rate} hours\n')    
+        print(f'Completed every {args.refresh_rate} hours\n')    
     
     # create client to interact with Betfair
     bf_client = client.BetfairClient(path_creds=args.creds_dir+'/credentials.json')

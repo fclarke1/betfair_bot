@@ -147,7 +147,7 @@ class BetfairClient:
         market_book = self.trading.betting.list_market_book(
             market_ids=market_ids,
             price_projection=filters.price_projection(
-                price_data=filters.price_data(ex_all_offers=True)
+                price_data=filters.price_data(ex_best_offers=True)
             )
         )
 
