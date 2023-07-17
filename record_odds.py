@@ -38,7 +38,7 @@ def record_odds(bf_client: client.BetfairClient, my_event_type: str, data_dir: s
     # save the new data since last refresh
     utils.save_rows(file_path=file_paths['events'], data=events)
     utils.save_rows(file_path=file_paths['marketCatalogue'], data=market_catalogue)
-    utils.save_rows(file_path=file_paths['runnerCatalogue'], data=runner_catalogue)
+    utils.save_rows(file_path=file_paths['runnerCatalogue'], data=runner_catalogue, id_col='market_id')
     utils.save_rows(file_path=file_paths['runnerPrice'], data=runner_prices, is_save_only_new_data=False)
 
 

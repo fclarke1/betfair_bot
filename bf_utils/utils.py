@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 
-def save_rows(file_path: str, data: pd.DataFrame, is_save_only_new_data: bool=True):
+def save_rows(file_path: str, data: pd.DataFrame, id_col: str='id', is_save_only_new_data: bool=True):
     
     # if csv doesn't exist save down what we have then load saved data
     if not os.path.exists(file_path):
@@ -17,7 +17,7 @@ def save_rows(file_path: str, data: pd.DataFrame, is_save_only_new_data: bool=Tr
     # if saving only new data, create a df of data that isn't already in the csv
     if is_save_only_new_data:
         # get a df of only the new events since the last save
-        is_new_data = ~data['id'].isin(df_csv['id'])  # ~ negates the boolean df
+        is_new_data = ~data[id_col].isin(df_csv[id_col])  # ~ negates the boolean df
         data_to_save = data[is_new_data]   
     # else we are saving all the data given
     else:
@@ -49,3 +49,15 @@ def get_non_started_market_ids(market_catalogue: pd.DataFrame) -> list[str]:
     # filter the df and convert to a list
     market_ids = market_catalogue[is_keep_rows].id.tolist()
     return market_ids
+
+
+def most_recent_runners(runner_price: pd.DataFrame):
+    # given runners, only return the most recent runners
+    last_record_date = runner_price['record_date'].tail(1)
+    last_runners = runner_price[runner_price['record_date']==last_record_date]
+    return last_runners
+
+
+def readable_runners(runner_price: pd.DataFrame, runner_catalogue: pd.DataFrame, market_catalogue: pd.DataFrame):
+    # given tables, do some joins to have readable markets and runners in the runner dataframe
+    return

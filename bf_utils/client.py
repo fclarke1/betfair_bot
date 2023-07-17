@@ -71,7 +71,8 @@ class BetfairClient:
     def get_market_runner_catalogues(self,
                                      event_ids: list,
                                      market_type_codes: list=None,
-                                     market_betting_types: list=None):
+                                     market_betting_types: list=None,
+                                     market_ids: list=None):
         
         # NOTE: to find the market_type_codes get the market_ids using this function
         # then use get_market_types() to find the codes
@@ -80,7 +81,8 @@ class BetfairClient:
         market_catalogue_filter = filters.market_filter(
             event_ids=event_ids,  # filter on given events
             market_betting_types=market_betting_types,
-            market_type_codes=market_type_codes  # filter for some markets, eg. leave out handicap
+            market_type_codes=market_type_codes,  # filter for some markets, eg. leave out handicap
+            market_ids=market_ids
         )
 
         # Get market catelogue which contains details about different betting options called a market (but no odds)
