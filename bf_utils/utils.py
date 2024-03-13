@@ -49,6 +49,3 @@ def get_non_started_market_ids(market_catalogue: pd.DataFrame) -> list[str]:
     # filter the df and convert to a list
     market_ids = market_catalogue[is_keep_rows].id.tolist()
     return market_ids
-
-
-def
