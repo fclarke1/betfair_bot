@@ -51,13 +51,4 @@ def get_non_started_market_ids(market_catalogue: pd.DataFrame) -> list[str]:
     return market_ids
 
 
-def most_recent_runners(runner_price: pd.DataFrame):
-    # given runners, only return the most recent runners
-    last_record_date = runner_price['record_date'].tail(1)
-    last_runners = runner_price[runner_price['record_date']==last_record_date]
-    return last_runners
-
-
-def readable_runners(runner_price: pd.DataFrame, runner_catalogue: pd.DataFrame, market_catalogue: pd.DataFrame):
-    # given tables, do some joins to have readable markets and runners in the runner dataframe
-    return
+def
