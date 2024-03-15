@@ -2,6 +2,11 @@
 
 Code to interace with the BetFair API
 
+## Install
+Create environment with python=3.10
+
+pip install -r requirements.txt
+
 ## What Script to run?
 
 Use the demo.ipynb notebook which goes through step by step getting event_id, event, market, runners, and prices using betfairlightweight
@@ -10,3 +15,6 @@ Follow the instructions at the top to create app_key, and certificates for loggi
 
 For info recording odds run:
 python record_odds.py -h
+
+To download historic games and pitcher stats run:
+python record_mlb_stats.py

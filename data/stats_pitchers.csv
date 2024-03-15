@@ -1,361 +1,293 @@
 pitcher_id,pitcher_name,current_team,position,pitch_hand,games_started
-661395,Jhoan Duran,Minnesota Twins,P,Right,0
-472551,,Colorado Rockies,P,Left,0
-605130,Scott Barlow,Kansas City Royals,P,Right,0
-656353,Tucker Davidson,Los Angeles Angels,P,Left,0
-665625,Elvis Peguero,Milwaukee Brewers,P,Right,0
-666974,Yennier Cano,Baltimore Orioles,P,Right,0
-607179,Jordan Weems,Washington Nationals,P,Right,0
-657376,Clarke Schmidt,New York Yankees,P,Right,18
-571945,Miles Mikolas,St. Louis Cardinals,P,Right,19
-679525,Alec Marsh,Kansas City Royals,P,Right,2
-592351,Jon Gray,Texas Rangers,P,Right,16
-527054,Julio Teheran,Milwaukee Brewers,P,Right,8
-672282,Reid Detmers,Los Angeles Angels,P,Left,16
-682175,Joe Jacques,Boston Red Sox,P,Left,0
-605400,Aaron Nola,Philadelphia Phillies,P,Right,19
-527048,Martin Perez,Texas Rangers,P,Left,17
-607067,Colin Rea,Milwaukee Brewers,P,Right,15
-670280,David Bednar,Pittsburgh Pirates,P,Right,0
-628708,Yunior Marte,Philadelphia Phillies,P,Right,0
-605135,Chris Bassitt,Toronto Blue Jays,P,Right,19
-472610,Luis Garcia,San Diego Padres,P,Right,0
-543766,Bryan Shaw,Chicago White Sox,P,Right,0
-548384,Brooks Raley,New York Mets,P,Left,0
-676092,Collin Snider,Kansas City Royals,P,Right,0
-664285,Framber Valdez,Houston Astros,P,Left,17
-663465,Kolby Allard,Atlanta Braves,P,Left,2
-573186,Marcus Stroman,Chicago Cubs,P,Right,19
-641540,Dane Dunning,Texas Rangers,P,Right,12
-572020,James Paxton,Boston Red Sox,P,Left,10
-593958,Eduardo Rodriguez,Detroit Tigers,P,Left,12
-656232,Brandon Bielak,Houston Astros,P,Right,10
-592866,Trevor Williams,Washington Nationals,P,Right,18
-622250,Josh Sborz,Texas Rangers,P,Right,0
-656302,Dylan Cease,Chicago White Sox,P,Right,19
-663947,Tyler Holton,Detroit Tigers,P,Left,1
-665871,Javier Assad,Chicago Cubs,P,Right,1
-650893,Genesis Cabrera,St. Louis Cardinals,P,Left,0
-554340,Yimi Garcia,Toronto Blue Jays,P,Right,0
-675911,Spencer Strider,Atlanta Braves,P,Right,18
-434378,Justin Verlander,New York Mets,P,Right,12
-592791,Jameson Taillon,Chicago Cubs,P,Right,15
-607536,Kyle Freeland,Colorado Rockies,P,Left,19
-669270,Joel Kuhnel,Houston Astros,P,Right,0
-673540,Kodai Senga,New York Mets,P,Right,16
-657508,Mike Baumann,Baltimore Orioles,P,Right,0
-670059,Colin Holderman,Pittsburgh Pirates,P,Right,0
-676710,Kutter Crawford,Boston Red Sox,P,Right,9
-621244,Jose Berrios,Toronto Blue Jays,P,Right,18
-543475,Jordan Lyles,Kansas City Royals,P,Right,17
-628711,Julio Urias,Los Angeles Dodgers,P,Left,12
-656427,Jack Flaherty,St. Louis Cardinals,P,Right,17
-660825,Eduard Bazardo,Baltimore Orioles,P,Right,0
-663903,Brady Singer,Kansas City Royals,P,Right,18
-656288,Griffin Canning,Los Angeles Angels,P,Right,14
-593334,Domingo German,New York Yankees,P,Right,17
-502624,Chase Anderson,Colorado Rockies,P,Right,10
-669387,Carmen Mlodzinski,Pittsburgh Pirates,P,Right,1
-668933,Graham Ashcraft,Cincinnati Reds,P,Right,16
-458681,Lance Lynn,Chicago White Sox,P,Right,18
-660261,Shintaro Fujinami,Oakland Athletics,P,Right,7
-656638,Alex Lange,Detroit Tigers,P,Right,0
-664299,Cristian Javier,Houston Astros,P,Right,17
-543518,Scott McGough,Arizona Diamondbacks,P,Right,0
-605288,Adrian Houser,Milwaukee Brewers,P,Right,9
-672578,Carlos Hernandez,Kansas City Royals,P,Right,4
-623211,Huascar Brazoban,Miami Marlins,P,Right,0
-518886,Craig Kimbrel,Philadelphia Phillies,P,Right,0
-657024,Erik Swanson,Toronto Blue Jays,P,Right,0
-623352,Josh Hader,San Diego Padres,P,Left,0
-592836,Taijuan Walker,Philadelphia Phillies,P,Right,18
-669923,George Kirby,Seattle Mariners,P,Right,17
-596295,Austin Gomber,Colorado Rockies,P,Left,18
-656756,Jordan Montgomery,St. Louis Cardinals,P,Left,18
-666200,Jesus Luzardo,Miami Marlins,P,Left,19
-663485,Cole Sands,Minnesota Twins,P,Right,0
-670912,Johan Oviedo,Pittsburgh Pirates,P,Right,18
-670950,Trevor Richards,Toronto Blue Jays,P,Right,3
-650644,Aaron Civale,Cleveland Guardians,P,Right,9
-592229,Dylan Covey,Philadelphia Phillies,P,Right,1
-641627,Trevor Gott,New York Mets,P,Right,0
-657612,Tim Hill,San Diego Padres,P,Left,0
-663773,Bryan Hoeing,Miami Marlins,P,Right,6
-571927,Steven Matz,St. Louis Cardinals,P,Left,11
-579328,Yusei Kikuchi,Toronto Blue Jays,P,Left,18
-489446,Kirby Yates,Atlanta Braves,P,Right,0
-686613,Hunter Brown,Houston Astros,P,Right,17
-664199,Taylor Clarke,Kansas City Royals,P,Right,1
-663941,Tristan Beck,San Francisco Giants,P,Right,0
-679885,Justin Martinez,Arizona Diamondbacks,P,Right,0
-657514,Brennan Bernardino,Boston Red Sox,P,Left,2
-502043,Kyle Gibson,Baltimore Orioles,P,Right,19
-666201,Alek Manoah,Toronto Blue Jays,P,Right,14
-668678,Zac Gallen,Arizona Diamondbacks,P,Right,19
-669203,Corbin Burnes,Milwaukee Brewers,P,Right,18
-640455,Sean Manaea,San Francisco Giants,P,Left,6
-669438,Mason Englert,Detroit Tigers,P,Right,1
-693821,Bryce Elder,Atlanta Braves,P,Right,18
-543037,Gerrit Cole,New York Yankees,P,Right,19
-592332,Kevin Gausman,Toronto Blue Jays,P,Right,19
-608032,Carlos Estevez,Los Angeles Angels,P,Right,0
-608344,Cole Irvin,Baltimore Orioles,P,Left,8
-554430,Zack Wheeler,Philadelphia Phillies,P,Right,18
-678606,Jose A. Ferrer,Washington Nationals,P,Left,0
-674370,Osvaldo Bido,Pittsburgh Pirates,P,Right,5
-665152,Dean Kremer,Baltimore Orioles,P,Right,18
-666159,Matt Manning,Detroit Tigers,P,Right,5
-621381,Matt Strahm,Philadelphia Phillies,P,Left,9
-669194,Ryne Nelson,Arizona Diamondbacks,P,Right,18
-471911,Carlos Carrasco,New York Mets,P,Right,12
-656605,Mitch Keller,Pittsburgh Pirates,P,Right,19
-645261,Sandy Alcantara,Miami Marlins,P,Right,18
-682227,Brandon Williamson,Cincinnati Reds,P,Left,10
-622075,Yency Almonte,Los Angeles Dodgers,P,Right,0
-453286,Max Scherzer,New York Mets,P,Right,16
-608717,Chris Stratton,St. Louis Cardinals,P,Right,0
-669456,Shane Bieber,Cleveland Guardians,P,Right,19
-643511,Tyler Rogers,San Francisco Giants,P,Right,0
-674072,Tommy Henry,Arizona Diamondbacks,P,Left,13
-489119,Wade Miley,Milwaukee Brewers,P,Left,13
-641729,Joe Jimenez,Atlanta Braves,P,Right,0
-669302,Logan Gilbert,Seattle Mariners,P,Right,18
-571578,Patrick Corbin,Washington Nationals,P,Left,19
-660787,Yerry De Los Santos,Pittsburgh Pirates,P,Right,0
-622072,Alex Wood,San Francisco Giants,P,Left,9
-542881,Tyler Anderson,Los Angeles Angels,P,Left,15
-518617,Jake Diekman,Tampa Bay Rays,P,Left,0
-543243,Sonny Gray,Minnesota Twins,P,Right,18
-669022,MacKenzie Gore,Washington Nationals,P,Left,18
-650556,Bryan Abreu,Houston Astros,P,Right,0
-641743,Anthony Kay,Chicago Cubs,P,Left,0
-548389,Ross Stripling,San Francisco Giants,P,Right,7
-543135,Nathan Eovaldi,Texas Rangers,P,Right,18
-657746,Joe Ryan,Minnesota Twins,P,Right,18
-670174,Josh Winckowski,Boston Red Sox,P,Right,0
-571948,Hoby Milner,Milwaukee Brewers,P,Left,0
-592773,Ryne Stanek,Houston Astros,P,Right,0
-628317,Kenta Maeda,Minnesota Twins,P,Right,7
-605483,Blake Snell,San Diego Padres,P,Left,18
-669212,Eli Morgan,Cleveland Guardians,P,Right,0
-622491,Luis Castillo,Seattle Mariners,P,Right,18
-630023,Yonny Chirinos,Tampa Bay Rays,P,Right,4
-607259,Nick Martinez,San Diego Padres,P,Right,4
-657277,Logan Webb,San Francisco Giants,P,Right,19
-680694,Kyle Bradish,Baltimore Orioles,P,Right,16
-663986,Trevor Stephan,Cleveland Guardians,P,Right,0
-657006,Justin Steele,Chicago Cubs,P,Left,16
-571882,Derek Law,Cincinnati Reds,P,Right,2
-571670,Dylan Lee,Miami Marlins,P,Right,0
-605280,Clay Holmes,New York Yankees,P,Right,0
-607625,Seth Lugo,San Diego Padres,P,Right,12
-612434,Miguel Castro,Arizona Diamondbacks,P,Right,0
-450203,Charlie Morton,Atlanta Braves,P,Right,17
-642547,Freddy Peralta,Milwaukee Brewers,P,Right,17
-476595,Lucas Luetge,Atlanta Braves,P,Left,0
-641154,Pablo Lopez,Minnesota Twins,P,Right,18
-608665,Kendall Graveman,Chicago White Sox,P,Right,0
-543507,Trevor May,Oakland Athletics,P,Right,0
-623149,Paul Sewald,Seattle Mariners,P,Right,0
-661527,Seth Martinez,Houston Astros,P,Right,0
-680704,Nick Sandlin,Cleveland Guardians,P,Right,0
-596001,Jakob Junis,San Francisco Giants,P,Right,0
-663776,Patrick Sandoval,Los Angeles Angels,P,Left,16
-445276,Kenley Jansen,Boston Red Sox,P,Right,0
-621107,Zach Eflin,Tampa Bay Rays,P,Right,17
-605177,Andrew Chafin,Arizona Diamondbacks,P,Left,0
-660853,Enyel De Los Santos,Cleveland Guardians,P,Right,0
-518585,Fernando Cruz,Cincinnati Reds,P,Right,0
-543056,Danny Coulombe,Baltimore Orioles,P,Left,0
-661403,Emmanuel Clase,Cleveland Guardians,P,Right,0
-656464,Kevin Ginkel,Arizona Diamondbacks,P,Right,0
-640470,Adbert Alzolay,Chicago Cubs,P,Right,0
-571479,Andrew Bellatti,Philadelphia Phillies,P,Right,0
-571670,Dylan Floro,Miami Marlins,P,Right,0
-642207,Devin Williams,Milwaukee Brewers,P,Right,0
-660271,Shohei Ohtani,Los Angeles Angels,TWP,Right,17
-621345,A.J. Minter,Atlanta Braves,P,Left,0
-642397,Gregory Soto,Philadelphia Phillies,P,Left,0
-605347,Jorge Lopez,Minnesota Twins,P,Right,0
-664294,Dauri Moreta,Pittsburgh Pirates,P,Right,0
-641703,Brent Honeywell,San Diego Padres,P,Right,0
-607755,Andrew Vasquez,Philadelphia Phillies,P,Left,0
-669459,Kyle Nelson,Arizona Diamondbacks,P,Left,1
-642545,Jaime Barria,Los Angeles Angels,P,Right,6
-682120,Tim Herrin,Cleveland Guardians,P,Left,0
-656945,Tanner Scott,Miami Marlins,P,Left,0
-605447,Jordan Romano,Toronto Blue Jays,P,Right,0
-621363,Colin Poche,Tampa Bay Rays,P,Left,0
-571760,Andrew Heaney,Texas Rangers,P,Left,17
-641329,Bryan Baker,Baltimore Orioles,P,Right,0
-543859,Michael Tonkin,Atlanta Braves,P,Right,0
-621074,Michael Rucker,Chicago Cubs,P,Right,0
-643377,Griffin Jax,Minnesota Twins,P,Right,0
-606149,Giovanny Gallegos,St. Louis Cardinals,P,Right,0
-518397,Scott Alexander,San Francisco Giants,P,Left,1
-593974,Wandy Peralta,New York Yankees,P,Left,0
-669467,Andre Pallante,St. Louis Cardinals,P,Right,0
-640462,A.J. Puk,Miami Marlins,P,Left,0
-671737,Taj Bradley,Tampa Bay Rays,P,Right,13
-642585,Felix Bautista,Baltimore Orioles,P,Right,0
-687330,Kevin Kelly,Tampa Bay Rays,P,Right,0
-542585,Jose Cisnero,Detroit Tigers,P,Right,0
-641941,Emilio Pagan,Minnesota Twins,P,Right,0
-668868,Zack Thompson,St. Louis Cardinals,P,Left,0
-666374,Matt Brash,Seattle Mariners,P,Right,0
-592741,Chasen Shreve,Detroit Tigers,P,Left,0
-622098,Drew Smith,New York Mets,P,Right,0
-518489,Ryan Brasier,Los Angeles Dodgers,P,Right,0
-666168,Mason Thompson,Washington Nationals,P,Right,0
-592767,Drew Smyly,Chicago Cubs,P,Left,18
-656271,Brock Burke,Texas Rangers,P,Left,0
-664139,Ian Gibaut,Cincinnati Reds,P,Right,0
-448179,Rich Hill,Pittsburgh Pirates,P,Left,18
-656849,David Peterson,New York Mets,P,Left,11
-608337,Lucas Giolito,Chicago White Sox,P,Right,19
-643410,Mark Leiter Jr.,Chicago Cubs,P,Right,0
-669060,Bryse Wilson,Milwaukee Brewers,P,Right,0
-666808,Camilo Doval,San Francisco Giants,P,Right,0
-641656,Ian Hamilton,New York Yankees,P,Right,1
-657571,Caleb Ferguson,Los Angeles Dodgers,P,Left,1
-593576,Hector Neris,Houston Astros,P,Right,0
-601713,Nick Pivetta,Boston Red Sox,P,Right,8
-666129,Braxton Garrett,Miami Marlins,P,Left,17
-605397,Joe Musgrove,San Diego Padres,P,Right,14
-621016,Jose Cuas,Kansas City Royals,P,Right,1
-641927,Bailey Ober,Minnesota Twins,P,Right,14
-506433,Yu Darvish,San Diego Padres,P,Right,15
-664747,Alexis Diaz,Cincinnati Reds,P,Right,0
-502171,Alex Cobb,San Francisco Giants,P,Right,16
-680686,Josiah Gray,Washington Nationals,P,Right,18
-608371,Lucas Sims,Cincinnati Reds,P,Right,0
-669330,Tyler Wells,Baltimore Orioles,P,Right,17
-676440,Tanner Bibee,Cleveland Guardians,P,Right,13
-502085,David Robertson,New York Mets,P,Right,0
-641835,Tim Mayza,Toronto Blue Jays,P,Left,0
-547973,Aroldis Chapman,Texas Rangers,P,Left,0
-676680,Tom Cosgrove,San Diego Padres,P,Left,0
-607481,Aaron Bummer,Chicago White Sox,P,Left,0
-640451,Hunter Harvey,Washington Nationals,P,Right,0
-664875,Justin Lawrence,Colorado Rockies,P,Right,0
-642100,Gabe Speier,Seattle Mariners,P,Left,0
-547179,Michael Lorenzen,Detroit Tigers,P,Right,15
-660813,Brusdar Graterol,Los Angeles Dodgers,P,Right,1
-543521,Collin McHugh,Atlanta Braves,P,Right,1
-656061,Albert Abreu,New York Yankees,P,Right,0
-666619,Gregory Santos,Chicago White Sox,P,Right,0
-640448,Kyle Finnegan,Washington Nationals,P,Right,0
-543272,Brad Hand,Colorado Rockies,P,Left,0
-678394,Brayan Bello,Boston Red Sox,P,Right,14
-676760,Ron Marinaccio,New York Yankees,P,Right,0
-686610,Ken Waldichuk,Oakland Athletics,P,Left,11
-642048,Tayler Saucedo,Seattle Mariners,P,Left,0
-642232,Ryan Yarbrough,Kansas City Royals,P,Left,4
-595345,Steven Okert,Miami Marlins,P,Left,0
-606303,Joel Payamps,Milwaukee Brewers,P,Right,0
-663623,Jake Irvin,Washington Nationals,P,Right,12
-657756,Connor Seabold,Colorado Rockies,P,Right,12
-596133,Luke Weaver,Cincinnati Reds,P,Right,15
-594902,Ben Lively,Cincinnati Reds,P,Right,8
-641585,J.P. France,Houston Astros,P,Right,11
-663878,Nate Pearson,Toronto Blue Jays,P,Right,0
-671345,Jason Foley,Detroit Tigers,P,Right,0
-664062,Tony Gonsolin,Los Angeles Dodgers,P,Right,13
-606160,Rafael Montero,Houston Astros,P,Right,0
-453268,Daniel Bard,Colorado Rockies,P,Right,0
-641360,Phil Bickford,Los Angeles Dodgers,P,Right,0
-643493,Austin Pruitt,Oakland Athletics,P,Right,4
-573124,Taylor Rogers,San Francisco Giants,P,Left,0
-614179,Jose Ruiz,Arizona Diamondbacks,P,Right,0
-606965,Chris Devenski,Los Angeles Angels,P,Right,0
-592094,Jason Adam,Tampa Bay Rays,P,Right,0
-592848,Zack Weiss,Los Angeles Angels,P,Right,0
-608638,JT Chargois,Miami Marlins,P,Right,0
-676254,Ryan Walker,San Francisco Giants,P,Right,5
-623465,Evan Phillips,Los Angeles Dodgers,P,Right,0
-656234,Jake Bird,Colorado Rockies,P,Right,1
-650633,Michael King,New York Yankees,P,Right,0
-676272,Bobby Miller,Los Angeles Dodgers,P,Right,8
-628452,Raisel Iglesias,Atlanta Braves,P,Right,0
-571656,Buck Farmer,Cincinnati Reds,P,Right,0
-675540,Xzavion Curry,Cleveland Guardians,P,Right,0
-668674,Lucas Erceg,Oakland Athletics,P,Right,0
-681982,Grant Anderson,Texas Rangers,P,Right,0
-657240,Julian Merryweather,Chicago Cubs,P,Right,0
-623437,Justin Topa,Seattle Mariners,P,Right,0
-455119,Chris Martin,Boston Red Sox,P,Right,0
-670990,Yohan Ramirez,Pittsburgh Pirates,P,Right,0
-641871,Keynan Middleton,Chicago White Sox,P,Right,0
-625643,Reynaldo Lopez,Chicago White Sox,P,Right,0
-624133,Ranger Suarez,Philadelphia Phillies,P,Left,11
-622780,Angel Perdomo,Pittsburgh Pirates,P,Left,0
-671096,Andrew Abbott,Cincinnati Reds,P,Left,7
-519293,Will Smith,Texas Rangers,P,Left,0
-663687,Hogan Harris,Oakland Athletics,P,Left,4
-605200,Zach Davies,Arizona Diamondbacks,P,Right,11
-663855,Jordan Hicks,St. Louis Cardinals,P,Right,0
-607192,Tyler Glasnow,Tampa Bay Rays,P,Right,8
-665622,Luis Medina,Oakland Athletics,P,Right,8
-657097,Jacob Webb,Los Angeles Angels,P,Right,0
-543294,Kyle Hendricks,Chicago Cubs,P,Right,9
-676664,JP Sears,Oakland Athletics,P,Left,18
-696147,Sam Bachman,Los Angeles Angels,P,Right,0
-608678,Dominic Leone,New York Mets,P,Right,0
-519151,Ryan Pressly,Houston Astros,P,Right,0
-596112,Robert Stephenson,Tampa Bay Rays,P,Right,0
-686839,Brendan White,Detroit Tigers,P,Right,1
-622065,Alex Young,Cincinnati Reds,P,Left,0
-663738,Daniel Lynch,Kansas City Royals,P,Left,8
-664208,Phil Maton,Houston Astros,P,Right,0
-663558,Jovani Moran,Minnesota Twins,P,Left,0
-693433,Bryan Woo,Seattle Mariners,P,Right,7
-572955,Pierce Johnson,Colorado Rockies,P,Right,0
-686218,Emmet Sheehan,Los Angeles Dodgers,P,Right,4
-622663,Luis Severino,New York Yankees,P,Right,9
-681857,Reese Olson,Detroit Tigers,P,Right,5
-656546,Jeff Hoffman,Philadelphia Phillies,P,Right,0
-669947,Jesse Scholtens,Chicago White Sox,P,Right,2
-621112,Paul Blackburn,Oakland Athletics,P,Right,7
-650960,Daniel Duarte,Cincinnati Reds,P,Right,0
-647336,Michael Soroka,Atlanta Braves,P,Right,4
-662253,Andres Munoz,Seattle Mariners,P,Right,0
-656529,Sam Hentges,Cleveland Guardians,P,Left,0
-701643,Grant Hartwig,New York Mets,P,Right,0
-592454,Tommy Kahnle,New York Yankees,P,Right,0
-694037,Daniel Palencia,Chicago Cubs,P,Right,0
-650496,J.C. Mejia,Milwaukee Brewers,P,Right,0
-543351,Jay Jackson,Toronto Blue Jays,P,Right,0
-674003,Cody Bradford,Texas Rangers,P,Left,5
-668909,Gavin Williams,Cleveland Guardians,P,Right,4
-675627,Michael Grove,Los Angeles Dodgers,P,Right,8
-668941,JoJo Romero,St. Louis Cardinals,P,Left,0
-456501,Johnny Cueto,Miami Marlins,P,Right,1
-621383,Tanner Banks,Chicago White Sox,P,Left,3
-656457,Tyler Gilbert,Arizona Diamondbacks,P,Left,0
-598286,Nick Ramirez,New York Yankees,P,Left,0
-670970,Adrian Morejon,San Diego Padres,P,Left,1
-621366,Ryan Borucki,Pittsburgh Pirates,P,Left,0
-570257,Joely Rodriguez,Boston Red Sox,P,Left,0
-669674,Sam Long,Oakland Athletics,P,Left,1
-669684,Chris Murphy,Boston Red Sox,P,Left,0
-675989,Cody Bolton,Pittsburgh Pirates,P,Right,0
-650911,Cristopher Sanchez,Philadelphia Phillies,P,Left,5
-669169,Jonathan Heasley,Kansas City Royals,P,Right,0
-621294,Ben Heller,Atlanta Braves,P,Right,0
-605463,Tayler Scott,Boston Red Sox,P,Right,1
-571901,Aaron Loup,Los Angeles Angels,P,Left,0
-681911,Alex Vesia,Los Angeles Dodgers,P,Left,1
-493603,Adam Ottavino,New York Mets,P,Right,0
-594580,Sam Moll,Oakland Athletics,P,Left,1
-605242,Michael Fulmer,Chicago Cubs,P,Right,0
-600917,Jose Leclerc,Texas Rangers,P,Right,0
-663992,Richard Lovelady,Oakland Athletics,P,Left,0
-664126,Pete Fairbanks,Tampa Bay Rays,P,Right,0
-641793,Zack Littell,Tampa Bay Rays,P,Right,2
-657053,Touki Toussaint,Chicago White Sox,P,Right,3
-613534,Austin Adams,Arizona Diamondbacks,P,Right,0
-663362,Matt Waldron,El Paso Chihuahuas,P,Right,1
-676265,Cory Abbott,Washington Nationals,P,Right,0
-519008,T.J. McFarland,New York Mets,P,Left,0
-607074,Carlos Rodon,New York Yankees,P,Left,1
-681517,Kyle Leahy,St. Louis Cardinals,P,Right,0
+663738,Daniel Lynch IV,Kansas City Royals,P,Left,-1
+607259,Nick Martinez,Cincinnati Reds,P,Right,-1
+656232,Brandon Bielak,Houston Astros,P,Right,-1
+656605,Mitch Keller,Pittsburgh Pirates,P,Right,-1
+680723,Drew Rom,St. Louis Cardinals,P,Left,-1
+628317,Kenta Maeda,Detroit Tigers,P,Right,-1
+663465,Kolby Allard,Philadelphia Phillies,P,Left,-1
+656793,Nick Nelson,Philadelphia Phillies,P,Right,-1
+682227,Brandon Williamson,Cincinnati Reds,P,Left,-1
+676664,JP Sears,Oakland Athletics,P,Left,-1
+573186,Marcus Stroman,New York Yankees,P,Right,-1
+543135,Nathan Eovaldi,Texas Rangers,P,Right,-1
+458681,Lance Lynn,St. Louis Cardinals,P,Right,-1
+669194,Ryne Nelson,Arizona Diamondbacks,P,Right,-1
+594835,Marco Gonzales,Pittsburgh Pirates,P,Left,-1
+676130,José Buttó,New York Mets,P,Right,-1
+593958,Eduardo Rodriguez,Arizona Diamondbacks,P,Left,-1
+592866,Trevor Williams,Washington Nationals,P,Right,-1
+670174,Josh Winckowski,Boston Red Sox,P,Right,-1
+657376,Clarke Schmidt,New York Yankees,P,Right,-1
+641835,Tim Mayza,Toronto Blue Jays,P,Left,-1
+453286,Max Scherzer,Texas Rangers,P,Right,-1
+640455,Sean Manaea,New York Mets,P,Left,-1
+672282,Reid Detmers,Los Angeles Angels,P,Left,-1
+607536,Kyle Freeland,Colorado Rockies,P,Left,-1
+676083,Janson Junk,Milwaukee Brewers,P,Right,-1
+669145,Bruce Zimmermann,Baltimore Orioles,P,Left,-1
+676710,Kutter Crawford,Boston Red Sox,P,Right,-1
+608331,Max Fried,Atlanta Braves,P,Left,-1
+592791,Jameson Taillon,Chicago Cubs,P,Right,-1
+668881,Hunter Greene,Cincinnati Reds,P,Right,-1
+694297,Brandon Pfaadt,Arizona Diamondbacks,P,Right,-1
+663776,Patrick Sandoval,Los Angeles Angels,P,Left,-1
+622663,Luis Severino,New York Mets,P,Right,-1
+671096,,Cincinnati Reds,P,Left,-1
+682847,Luis L. Ortiz,Pittsburgh Pirates,P,Right,-1
+571578,Patrick Corbin,Washington Nationals,P,Left,-1
+554430,Zack Wheeler,Philadelphia Phillies,P,Right,-1
+641816,Tyler Mahle,Texas Rangers,P,Right,-1
+605488,Jeffrey Springs,Tampa Bay Rays,P,Left,-1
+605135,Chris Bassitt,Toronto Blue Jays,P,Right,-1
+500779,Jose Quintana,New York Mets,P,Left,-1
+663474,Triston McKenzie,Cleveland Guardians,P,Right,-1
+660261,Shintaro Fujinami,New York Mets,P,Right,-1
+502171,Alex Cobb,San Francisco Giants,P,Right,-1
+674003,Cody Bradford,Texas Rangers,P,Left,-1
+622491,Luis Castillo,Seattle Mariners,P,Right,-1
+669432,Trevor Rogers,Miami Marlins,P,Left,-1
+686613,Hunter Brown,Houston Astros,P,Right,-1
+666159,Matt Manning,Detroit Tigers,P,Right,-1
+608344,Cole Irvin,Baltimore Orioles,P,Left,-1
+641927,Bailey Ober,Minnesota Twins,P,Right,-1
+681217,Chase Silseth,Los Angeles Angels,P,Right,-1
+668933,Graham Ashcraft,Cincinnati Reds,P,Right,-1
+669713,Hayden Wesneski,Chicago Cubs,P,Right,-1
+596001,Jakob Junis,Milwaukee Brewers,P,Right,-1
+571760,Andrew Heaney,Texas Rangers,P,Left,-1
+663372,Ryan Feltner,Colorado Rockies,P,Right,-1
+656557,Tanner Houck,Boston Red Sox,P,Right,-1
+621107,Zach Eflin,Tampa Bay Rays,P,Right,-1
+669022,MacKenzie Gore,Washington Nationals,P,Left,-1
+666201,Alek Manoah,Toronto Blue Jays,P,Right,-1
+675627,Michael Grove,Los Angeles Dodgers,P,Right,-1
+615698,Cal Quantrill,Colorado Rockies,P,Right,-1
+669302,Logan Gilbert,Seattle Mariners,P,Right,-1
+669203,Corbin Burnes,Baltimore Orioles,P,Right,-1
+543243,Sonny Gray,St. Louis Cardinals,P,Right,-1
+592836,Taijuan Walker,Philadelphia Phillies,P,Right,-1
+664353,José Urquidy,Houston Astros,P,Right,-1
+571945,Miles Mikolas,St. Louis Cardinals,P,Right,-1
+592332,Kevin Gausman,Toronto Blue Jays,P,Right,-1
+666205,Kyle Muller,Oakland Athletics,P,Left,-1
+543101,Anthony DeSclafani,Minnesota Twins,P,Right,-1
+656302,Dylan Cease,San Diego Padres,P,Right,-1
+542881,Tyler Anderson,Los Angeles Angels,P,Left,-1
+518876,Merrill Kelly,Arizona Diamondbacks,P,Right,-1
+502043,Kyle Gibson,St. Louis Cardinals,P,Right,-1
+543037,Gerrit Cole,New York Yankees,P,Right,-1
+601713,Nick Pivetta,Boston Red Sox,P,Right,-1
+680686,Josiah Gray,Washington Nationals,P,Right,-1
+605513,Spencer Turnbull,Philadelphia Phillies,P,Right,-1
+605400,Aaron Nola,Philadelphia Phillies,P,Right,-1
+669330,Tyler Wells,Baltimore Orioles,P,Right,-1
+666200,Jesús Luzardo,Miami Marlins,P,Left,-1
+622072,Alex Wood,Oakland Athletics,P,Left,-1
+669923,George Kirby,Seattle Mariners,P,Right,-1
+642547,Freddy Peralta,Milwaukee Brewers,P,Right,-1
+677651,Luis Garcia,Houston Astros,P,Right,-1
+641154,Pablo López,Minnesota Twins,P,Right,-1
+450203,Charlie Morton,Atlanta Braves,P,Right,-1
+621244,José Berríos,Toronto Blue Jays,P,Right,-1
+666142,Cole Ragans,Kansas City Royals,P,Left,-1
+596295,Austin Gomber,Colorado Rockies,P,Left,-1
+621112,Paul Blackburn,Oakland Athletics,P,Right,-1
+519242,Chris Sale,Atlanta Braves,P,Left,-1
+656427,Jack Flaherty,Detroit Tigers,P,Right,-1
+663903,Brady Singer,Kansas City Royals,P,Right,-1
+656288,Griffin Canning,Los Angeles Angels,P,Right,-1
+663559,Bailey Falter,Pittsburgh Pirates,P,Left,-1
+665795,Edward Cabrera,Miami Marlins,P,Right,-1
+668678,Zac Gallen,Arizona Diamondbacks,P,Right,-1
+607625,Seth Lugo,Kansas City Royals,P,Right,-1
+664285,Framber Valdez,Houston Astros,P,Left,-1
+694363,Jared Shuster,Chicago White Sox,P,Left,-1
+657006,Justin Steele,Chicago Cubs,P,Left,-1
+674072,Tommy Henry,Arizona Diamondbacks,P,Left,-1
+605288,Adrian Houser,New York Mets,P,Right,-1
+666129,Braxton Garrett,Miami Marlins,P,Left,-1
+683627,Anthony Molina,Colorado Rockies,P,Right,-1
+641712,Dakota Hudson,Colorado Rockies,P,Right,-1
+683769,Hunter Gaddis,Cleveland Guardians,P,Right,-1
+663546,Sean Hjelle,San Francisco Giants,P,Right,-1
+608566,Germán Márquez,Colorado Rockies,P,Right,-1
+676917,Cade Cavalli,Washington Nationals,P,Right,-1
+434378,Justin Verlander,Houston Astros,P,Right,-1
+543475,Jordan Lyles,Kansas City Royals,P,Right,-1
+592767,Drew Smyly,Chicago Cubs,P,Left,-1
+680694,Kyle Bradish,Baltimore Orioles,P,Right,-1
+666157,Nick Lodolo,Cincinnati Reds,P,Left,-1
+650644,Aaron Civale,Tampa Bay Rays,P,Right,-1
+660761,José Suarez,Los Angeles Angels,P,Left,-1
+680570,Grayson Rodriguez,Baltimore Orioles,P,Right,-1
+571927,Steven Matz,St. Louis Cardinals,P,Left,-1
+548389,Ross Stripling,Oakland Athletics,P,Right,-1
+656629,Michael Kopech,Chicago White Sox,P,Right,-1
+543056,Danny Coulombe,Baltimore Orioles,P,Left,-1
+656641,Jake Latz,Texas Rangers,P,Left,-1
+650911,Cristopher Sánchez,Philadelphia Phillies,P,Left,-1
+669456,Shane Bieber,Cleveland Guardians,P,Right,-1
+675911,Spencer Strider,Atlanta Braves,P,Right,-1
+641540,Dane Dunning,Texas Rangers,P,Right,-1
+691587,Eury Pérez,Miami Marlins,P,Right,-1
+608379,Michael Wacha,Kansas City Royals,P,Right,-1
+612434,Miguel Castro,Arizona Diamondbacks,P,Right,-1
+657746,Joe Ryan,Minnesota Twins,P,Right,-1
+579328,Yusei Kikuchi,Toronto Blue Jays,P,Left,-1
+669461,Matthew Liberatore,St. Louis Cardinals,P,Left,-1
+670102,Bowden Francis,Toronto Blue Jays,P,Right,-1
+656814,Luis F. Ortiz,Philadelphia Phillies,P,Right,-1
+657277,Logan Webb,San Francisco Giants,P,Right,-1
+594798,Jacob deGrom,Texas Rangers,P,Right,-1
+676477,Garrett Whitlock,Boston Red Sox,P,Right,-1
+669854,Ronel Blanco,Houston Astros,P,Right,-1
+673540,Kodai Senga,New York Mets,P,Right,-1
+677960,Ryan Weathers,Miami Marlins,P,Left,-1
+681402,Gus Varland,Los Angeles Dodgers,P,Right,-1
+641793,Zack Littell,Tampa Bay Rays,P,Right,-1
+672715,Luis Patiño,San Diego Padres,P,Right,-1
+650893,Génesis Cabrera,Toronto Blue Jays,P,Left,-1
+696147,Sam Bachman,Los Angeles Angels,P,Right,-1
+656731,Tylor Megill,New York Mets,P,Right,-1
+666745,Jhony Brito,San Diego Padres,P,Right,-1
+608337,Lucas Giolito,Boston Red Sox,P,Right,-1
+665152,Dean Kremer,Baltimore Orioles,P,Right,-1
+641585,J.P. France,Houston Astros,P,Right,-1
+527048,Martín Pérez,Pittsburgh Pirates,P,Left,-1
+641482,Nestor Cortes,New York Yankees,P,Left,-1
+592351,Jon Gray,Texas Rangers,P,Right,-1
+506433,Yu Darvish,San Diego Padres,P,Right,-1
+489119,Wade Miley,Milwaukee Brewers,P,Left,-1
+623167,Chris Flexen,Chicago White Sox,P,Right,-1
+666214,Joey Wentz,Detroit Tigers,P,Left,-1
+672710,Roansy Contreras,Pittsburgh Pirates,P,Right,-1
+656222,Jalen Beeks,Colorado Rockies,P,Left,-1
+621381,Matt Strahm,Philadelphia Phillies,P,Left,-1
+693821,Bryce Elder,Atlanta Braves,P,Right,-1
+660271,Shohei Ohtani,Los Angeles Dodgers,TWP,Right,-1
+671737,Taj Bradley,Tampa Bay Rays,P,Right,-1
+678394,Brayan Bello,Boston Red Sox,P,Right,-1
+695243,Mason Miller,Oakland Athletics,P,Right,-1
+665871,Javier Assad,Chicago Cubs,P,Right,-1
+676534,Calvin Faucher,Miami Marlins,P,Right,-1
+671106,Logan Allen,Cleveland Guardians,P,Left,-1
+607067,Colin Rea,Milwaukee Brewers,P,Right,-1
+596133,Luke Weaver,New York Yankees,P,Right,-1
+605154,John Brebbia,Chicago White Sox,P,Right,-1
+676440,Tanner Bibee,Cleveland Guardians,P,Right,-1
+664192,Joey Lucchesi,New York Mets,P,Left,-1
+605397,Joe Musgrove,San Diego Padres,P,Right,-1
+663773,Bryan Hoeing,Miami Marlins,P,Right,-1
+642232,Ryan Yarbrough,Los Angeles Dodgers,P,Left,-1
+694813,Gavin Stone,Los Angeles Dodgers,P,Right,-1
+663623,Jake Irvin,Washington Nationals,P,Right,-1
+682243,Bryce Miller,Seattle Mariners,P,Right,-1
+686973,Louie Varland,Minnesota Twins,P,Right,-1
+571670,Dylan Lee,Washington Nationals,P,Right,-1
+665622,Luis Medina,Oakland Athletics,P,Right,-1
+572020,James Paxton,Los Angeles Dodgers,P,Left,-1
+656412,Alex Faedo,Detroit Tigers,P,Right,-1
+594902,Ben Lively,Cleveland Guardians,P,Right,-1
+624133,Ranger Suárez,Philadelphia Phillies,P,Left,-1
+543294,Kyle Hendricks,Chicago Cubs,P,Right,-1
+681190,Randy Vásquez,San Diego Padres,P,Right,-1
+607192,Tyler Glasnow,Los Angeles Dodgers,P,Right,-1
+676596,Josh Fleming,Pittsburgh Pirates,P,Left,-1
+676272,Bobby Miller,Los Angeles Dodgers,P,Right,-1
+669211,Keegan Akin,Baltimore Orioles,P,Left,-1
+671096,Andrew Abbott,Cincinnati Reds,P,Left,-1
+542888,Shawn Armstrong,Tampa Bay Rays,P,Right,-1
+670950,Trevor Richards,Toronto Blue Jays,P,Right,-1
+676684,Will Vest,Detroit Tigers,P,Right,-1
+681857,Reese Olson,Detroit Tigers,P,Right,-1
+686218,Emmet Sheehan,Los Angeles Dodgers,P,Right,-1
+693433,Bryan Woo,Seattle Mariners,P,Right,-1
+672391,Kaleb Ort,Baltimore Orioles,P,Right,-1
+621383,Tanner Banks,Chicago White Sox,P,Left,-1
+676254,Ryan Walker,San Francisco Giants,P,Right,-1
+668909,Gavin Williams,Cleveland Guardians,P,Right,-1
+663362,Matt Waldron,San Diego Padres,P,Right,-1
+647336,Michael Soroka,Chicago White Sox,P,Right,-1
+679525,Alec Marsh,Kansas City Royals,P,Right,-1
+663567,Peter Lambert,Colorado Rockies,P,Right,-1
+657514,Brennan Bernardino,Boston Red Sox,P,Left,-1
+676775,Keaton Winn,San Francisco Giants,P,Right,-1
+669373,Tarik Skubal,Detroit Tigers,P,Left,-1
+607074,Carlos Rodón,New York Yankees,P,Left,-1
+657053,Touki Toussaint,Chicago White Sox,P,Right,-1
+669459,Kyle Nelson,Arizona Diamondbacks,P,Left,-1
+681911,Alex Vesia,Los Angeles Dodgers,P,Left,-1
+682990,Quinn Priester,Pittsburgh Pirates,P,Right,-1
+656234,Jake Bird,Colorado Rockies,P,Right,-1
+675540,Xzavion Curry,Cleveland Guardians,P,Right,-1
+670167,John Schreiber,Kansas City Royals,P,Right,-1
+518397,Scott Alexander,Oakland Athletics,P,Left,-1
+668868,Zack Thompson,St. Louis Cardinals,P,Left,-1
+676106,Emerson Hancock,Seattle Mariners,P,Right,-1
+663704,James McArthur,Kansas City Royals,P,Right,-1
+672582,Angel Zerpa,Kansas City Royals,P,Left,-1
+657571,Caleb Ferguson,New York Yankees,P,Left,-1
+573009,Joe Mantiply,Arizona Diamondbacks,P,Left,-1
+666204,Dany Jiménez,Oakland Athletics,P,Right,-1
+650633,Michael King,San Diego Padres,P,Right,-1
+608638,JT Chargois,Miami Marlins,P,Right,-1
+677944,Slade Cecconi,Arizona Diamondbacks,P,Right,-1
+690986,Kyle Harrison,San Francisco Giants,P,Left,-1
+686752,Ryan Pepiot,Tampa Bay Rays,P,Right,-1
+658648,Pedro Avila,San Diego Padres,P,Right,-1
+664199,Taylor Clarke,Milwaukee Brewers,P,Right,-1
+622088,Tejay Antone,Cincinnati Reds,P,Right,-1
+696136,Jordan Wicks,Chicago Cubs,P,Left,-1
+687830,Sawyer Gipson-Long,Detroit Tigers,P,Right,-1
+607644,John Means,Baltimore Orioles,P,Left,-1
+656730,Trevor Megill,Milwaukee Brewers,P,Right,-1
+687798,Nick Robertson,St. Louis Cardinals,P,Right,-1
+656794,Sean Newcomb,Oakland Athletics,P,Left,-1
+608718,Brent Suter,Cincinnati Reds,P,Left,-1
+671212,Joe Boyle,Oakland Athletics,P,Right,-1
+518585,Fernando Cruz,Cincinnati Reds,P,Right,-1
+671131,Jackson Rutledge,Washington Nationals,P,Right,-1
+681806,Andrew Wantz,Los Angeles Angels,P,Right,-1
+641149,Wes Parsons,Toronto Blue Jays,P,Right,-1
+657248,Glenn Otto,San Diego Padres,P,Right,-1
+681867,Cooper Criswell,Boston Red Sox,P,Right,-1
+668873,Caleb Kilian,Chicago Cubs,P,Right,-1
+689225,Beau Brieske,Detroit Tigers,P,Right,-1
+668674,Lucas Erceg,Oakland Athletics,P,Right,-1
+669060,Bryse Wilson,Milwaukee Brewers,P,Right,-1
+681869,Shawn Dubin,Houston Astros,P,Right,-1
+669169,Jonathan Heasley,Baltimore Orioles,P,Right,-1
+608723,Austin Voth,Seattle Mariners,P,Right,-1
+592229,Dylan Covey,Philadelphia Phillies,P,Right,-1
+622766,Miguel Díaz,Detroit Tigers,P,Right,-1
+669684,Chris Murphy,Boston Red Sox,P,Left,-1
+693312,Kyle Nicolas,Pittsburgh Pirates,P,Right,-1
+686826,Bryce Jarvis,Arizona Diamondbacks,P,Right,-1
+640470,Adbert Alzolay,Chicago Cubs,P,Right,-1
+663947,Tyler Holton,Detroit Tigers,P,Left,-1
+622554,Seranthony Domínguez,Philadelphia Phillies,P,Right,-1
+669467,Andre Pallante,St. Louis Cardinals,P,Right,-1
+657031,Josh Taylor,Kansas City Royals,P,Left,-1
+641401,Connor Brogdon,Philadelphia Phillies,P,Right,-1
+672578,Carlos Hernández,Kansas City Royals,P,Right,-1
+669424,Jimmy Lambert,Chicago White Sox,P,Right,-1
+622251,Josh Staumont,Minnesota Twins,P,Right,-1
+641302,Tyler Alexander,Tampa Bay Rays,P,Left,-1
+594580,Sam Moll,Cincinnati Reds,P,Left,-1
+660813,Brusdar Graterol,Los Angeles Dodgers,P,Right,-1
+621016,Jose Cuas,Chicago Cubs,P,Right,-1
+641656,Ian Hamilton,New York Yankees,P,Right,-1
+670970,Adrian Morejon,San Diego Padres,P,Left,-1
+669387,Carmen Mlodzinski,Pittsburgh Pirates,P,Right,-1
+595345,Steven Okert,Minnesota Twins,P,Left,-1
+682175,Joe Jacques,Boston Red Sox,P,Left,-1
+621366,Ryan Borucki,Pittsburgh Pirates,P,Left,-1
+666720,Yerry Rodríguez,Texas Rangers,P,Right,-1
+666277,George Soriano,Miami Marlins,P,Right,-1
+543518,Scott McGough,Arizona Diamondbacks,P,Right,-1
+676092,Collin Snider,Seattle Mariners,P,Right,-1
+663423,Trent Thornton,Seattle Mariners,P,Right,-1
+571946,Shelby Miller,Detroit Tigers,P,Right,-1
+641941,Emilio Pagán,Cincinnati Reds,P,Right,-1
+682052,Jacob Lopez,Tampa Bay Rays,P,Left,-1

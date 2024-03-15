@@ -45,7 +45,7 @@ def record_odds(bf_client: client.BetfairClient, my_event_type: str, data_dir: s
 def main(args):
     # print summary to terminal:
     print(f'\nRecording odds from all games of {args.event_type}')
-    if args.is_run_once == 'False':
+    if args.is_run_continuously:
         print(f'Completed every {args.refresh_rate} hours\n')    
     
     # create client to interact with Betfair
@@ -61,7 +61,7 @@ def main(args):
         print('data recorded')
         
         # if loop only needs to run once then break
-        if args.is_run_once == 'True':
+        if not args.is_run_continuously:
             break
         
         # sleep until another refresh is due
@@ -76,7 +76,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Record the odds regularly for every event for the given eventType')
     
     parser.add_argument('--data_dir', default='data', help='Path to csv folder, default=data')
-    parser.add_argument('--is_run_once', default='True', help='Bool to set if program runs once or continuously, default=True')
+    parser.add_argument('--is_run_continuously', action='store_true', help='set if program runs once or continuously')
     parser.add_argument('--refresh_rate', default='4', help='Frequency of data refresh in hours, default=4')
     parser.add_argument('--event_type', default='Baseball', help='Event to be tracked, default=Baseball')
     parser.add_argument('--creds_dir', default='certs', help='Path to folder containing credentials.json, default=certs')

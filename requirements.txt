@@ -1,4 +1,7 @@
-betfairlightweight==2.20.1
-flumine==2.6.0
-pandas==2.2.1
-Requests==2.31.0
+pandas
+tqdm
+MLB-StatsAPI
+flumine
+chardet
+ipython
+ipykernel

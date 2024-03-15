@@ -1,7 +1,7 @@
 import os
 import pandas as pd
-import csv
 from datetime import datetime
+from statsapi import get
 
 
 
@@ -49,3 +49,49 @@ def get_non_started_market_ids(market_catalogue: pd.DataFrame) -> list[str]:
     # filter the df and convert to a list
     market_ids = market_catalogue[is_keep_rows].id.tolist()
     return market_ids
+
+def player_stat_data_season(personId, group="[hitting,pitching,fielding]", type="season", sportId=1, season='2023'):
+    """Altered the statsapi.player_stat_data function to be able to select the season of stats data to download"""
+    params = {
+        "personId": personId,
+        "hydrate": "stats(group="
+        + group
+        + ",type="
+        + type
+        + "season="
+        + season
+        + ",sportId="
+        + str(sportId)
+        + "),currentTeam",
+    }
+    r = get("person", params)
+
+    stat_groups = []
+
+    player = {
+        "id": r["people"][0]["id"],
+        "first_name": r["people"][0]["useName"],
+        "last_name": r["people"][0]["lastName"],
+        "active": r["people"][0]["active"],
+        "current_team": r["people"][0]["currentTeam"]["name"],
+        "position": r["people"][0]["primaryPosition"]["abbreviation"],
+        "nickname": r["people"][0].get("nickName"),
+        "last_played": r["people"][0].get("lastPlayedDate"),
+        "mlb_debut": r["people"][0].get("mlbDebutDate"),
+        "bat_side": r["people"][0]["batSide"]["description"],
+        "pitch_hand": r["people"][0]["pitchHand"]["description"],
+    }
+
+    for s in r["people"][0].get("stats", []):
+        for i in range(0, len(s["splits"])):
+            stat_group = {
+                "type": s["type"]["displayName"],
+                "group": s["group"]["displayName"],
+                "season": s["splits"][i].get("season"),
+                "stats": s["splits"][i]["stat"],
+            }
+            stat_groups.append(stat_group)
+
+    player.update({"stats": stat_groups})
+
+    return player
