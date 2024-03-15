@@ -1,11 +1,12 @@
 # Betfair Bot
 
-Code to interace with the BetFair API
-
 ## Install
 Create environment with python=3.10
 
+then run:
+'''bash
 pip install -r requirements.txt
+'''
 
 ## What Script to run?
 
