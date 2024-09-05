@@ -322,3 +322,732 @@ id,name,open_date,event_type_id
 33192167,Minnesota Twins @ Baltimore Orioles,2024-04-15 22:36:00,7511
 33192164,San Diego Padres @ Milwaukee Brewers,2024-04-15 23:41:00,7511
 33192165,Washington Nationals @ Los Angeles Dodgers,2024-04-16 02:11:00,7511
+33195058,St. Louis Cardinals @ Oakland Athletics,2024-04-17 01:41:00,7511
+33195056,Atlanta Braves @ Houston Astros,2024-04-17 00:11:00,7511
+33195057,Cincinnati Reds @ Seattle Mariners,2024-04-17 01:41:00,7511
+33195050,Texas Rangers @ Detroit Tigers,2024-04-16 17:11:00,7511
+33195051,Minnesota Twins @ Baltimore Orioles,2024-04-16 22:36:00,7511
+33195048,San Diego Padres @ Milwaukee Brewers,2024-04-16 23:41:00,7511
+33195054,Cleveland Guardians @ Boston Red Sox,2024-04-16 23:11:00,7511
+33195052,Los Angeles Angels @ Tampa Bay Rays,2024-04-16 22:51:00,7511
+33195053,New York Yankees @ Toronto Blue Jays,2024-04-16 23:08:00,7511
+33195043,Chicago Cubs @ Arizona Diamondbacks,2024-04-17 01:41:00,7511
+33195044,Colorado Rockies @ Philadelphia Phillies,2024-04-16 22:41:00,7511
+33195045,San Francisco Giants @ Miami Marlins,2024-04-16 22:41:00,7511
+33195049,Washington Nationals @ Los Angeles Dodgers,2024-04-17 02:11:00,7511
+33195055,Kansas City Royals @ Chicago White Sox,2024-04-16 23:41:00,7511
+33195046,Pittsburgh Pirates @ New York Mets,2024-04-16 23:11:00,7511
+33197858,Cleveland Guardians @ Boston Red Sox,2024-04-17 23:11:00,7511
+33197859,Atlanta Braves @ Houston Astros,2024-04-17 18:11:00,7511
+33197856,New York Yankees @ Toronto Blue Jays,2024-04-17 19:08:00,7511
+33197857,Los Angeles Angels @ Tampa Bay Rays,2024-04-17 22:51:00,7511
+33197862,St. Louis Cardinals @ Oakland Athletics,2024-04-17 19:38:00,7511
+33197863,Cincinnati Reds @ Seattle Mariners,2024-04-17 20:11:00,7511
+33197851,Colorado Rockies @ Philadelphia Phillies,2024-04-17 22:06:00,7511
+33197848,Pittsburgh Pirates @ New York Mets,2024-04-17 17:11:00,7511
+33197854,Texas Rangers @ Detroit Tigers,2024-04-17 17:11:00,7511
+33197855,Kansas City Royals @ Chicago White Sox,2024-04-17 18:11:00,7511
+33199441,Kansas City Royals @ Chicago White Sox,2024-04-17 21:46:00,7511
+33197846,Chicago Cubs @ Arizona Diamondbacks,2024-04-17 19:41:00,7511
+33197847,San Francisco Giants @ Miami Marlins,2024-04-17 16:11:00,7511
+33197850,Washington Nationals @ Los Angeles Dodgers,2024-04-17 19:11:00,7511
+33197849,San Diego Padres @ Milwaukee Brewers,2024-04-17 17:11:00,7511
+33197852,Minnesota Twins @ Baltimore Orioles,2024-04-17 17:06:00,7511
+33200467,Miami Marlins @ Chicago Cubs,2024-04-18 23:41:00,7511
+33200470,Texas Rangers @ Detroit Tigers,2024-04-18 17:11:00,7511
+33200471,Cleveland Guardians @ Boston Red Sox,2024-04-18 17:36:00,7511
+33200468,Arizona Diamondbacks @ San Francisco Giants,2024-04-19 01:46:00,7511
+33200469,Los Angeles Angels @ Tampa Bay Rays,2024-04-18 17:11:00,7511
+33203259,Chicago White Sox @ Philadelphia Phillies,2024-04-19 22:41:00,7511
+33203256,Baltimore Orioles @ Kansas City Royals,2024-04-19 23:41:00,7511
+33203257,Detroit Tigers @ Minnesota Twins,2024-04-20 00:11:00,7511
+33203261,Houston Astros @ Washington Nationals,2024-04-19 22:46:00,7511
+33203250,Arizona Diamondbacks @ San Francisco Giants,2024-04-20 02:16:00,7511
+33203254,Oakland Athletics @ Cleveland Guardians,2024-04-19 23:11:00,7511
+33203255,Tampa Bay Rays @ New York Yankees,2024-04-19 23:06:00,7511
+33203247,New York Mets @ Los Angeles Dodgers,2024-04-20 02:11:00,7511
+33203244,Miami Marlins @ Chicago Cubs,2024-04-19 18:21:00,7511
+33203245,Milwaukee Brewers @ St. Louis Cardinals,2024-04-20 00:16:00,7511
+33203266,Toronto Blue Jays @ San Diego Padres,2024-04-20 01:41:00,7511
+33203264,Texas Rangers @ Atlanta Braves,2024-04-19 23:21:00,7511
+33203265,Seattle Mariners @ Colorado Rockies,2024-04-20 00:41:00,7511
+33203258,Boston Red Sox @ Pittsburgh Pirates,2024-04-19 22:41:00,7511
+33203260,Los Angeles Angels @ Cincinnati Reds,2024-04-19 22:41:00,7511
+33206362,Detroit Tigers @ Minnesota Twins,2024-04-20 18:11:00,7511
+33206363,Baltimore Orioles @ Kansas City Royals,2024-04-20 23:11:00,7511
+33206360,Oakland Athletics @ Cleveland Guardians,2024-04-20 22:11:00,7511
+33206361,Tampa Bay Rays @ New York Yankees,2024-04-20 17:06:00,7511
+33206366,Chicago White Sox @ Philadelphia Phillies,2024-04-20 22:06:00,7511
+33206367,Los Angeles Angels @ Cincinnati Reds,2024-04-20 22:41:00,7511
+33206364,Boston Red Sox @ Pittsburgh Pirates,2024-04-20 20:06:00,7511
+33206365,Houston Astros @ Washington Nationals,2024-04-20 20:06:00,7511
+33206358,New York Mets @ Los Angeles Dodgers,2024-04-20 20:06:00,7511
+33206359,Arizona Diamondbacks @ San Francisco Giants,2024-04-20 20:06:00,7511
+33206356,Milwaukee Brewers @ St. Louis Cardinals,2024-04-20 18:16:00,7511
+33206357,Miami Marlins @ Chicago Cubs,2024-04-20 18:21:00,7511
+33206370,Toronto Blue Jays @ San Diego Padres,2024-04-21 00:41:00,7511
+33206371,Miami Marlins @ Chicago Cubs,2024-04-20 23:41:00,7511
+33206368,Texas Rangers @ Atlanta Braves,2024-04-20 23:21:00,7511
+33206369,Seattle Mariners @ Colorado Rockies,2024-04-21 00:11:00,7511
+33209018,Arizona Diamondbacks @ San Francisco Giants,2024-04-21 20:06:00,7511
+33209019,New York Mets @ Los Angeles Dodgers,2024-04-21 20:11:00,7511
+33209016,Milwaukee Brewers @ St. Louis Cardinals,2024-04-21 18:16:00,7511
+33209017,Miami Marlins @ Chicago Cubs,2024-04-21 18:21:00,7511
+33209022,Baltimore Orioles @ Kansas City Royals,2024-04-21 18:11:00,7511
+33209023,Detroit Tigers @ Minnesota Twins,2024-04-21 18:11:00,7511
+33209020,Oakland Athletics @ Cleveland Guardians,2024-04-21 17:41:00,7511
+33209021,Tampa Bay Rays @ New York Yankees,2024-04-21 17:36:00,7511
+33209032,Seattle Mariners @ Colorado Rockies,2024-04-22 00:11:00,7511
+33209027,Texas Rangers @ Atlanta Braves,2024-04-21 23:11:00,7511
+33209024,Houston Astros @ Washington Nationals,2024-04-21 17:36:00,7511
+33209025,Boston Red Sox @ Pittsburgh Pirates,2024-04-21 17:36:00,7511
+33209030,Seattle Mariners @ Colorado Rockies,2024-04-21 19:11:00,7511
+33209031,Toronto Blue Jays @ San Diego Padres,2024-04-21 20:11:00,7511
+33209028,Chicago White Sox @ Philadelphia Phillies,2024-04-21 17:36:00,7511
+33209029,Los Angeles Angels @ Cincinnati Reds,2024-04-21 17:41:00,7511
+33211390,Milwaukee Brewers @ Pittsburgh Pirates,2024-04-22 22:41:00,7511
+33211402,Toronto Blue Jays @ Kansas City Royals,2024-04-22 23:41:00,7511
+33211403,Chicago White Sox @ Minnesota Twins,2024-04-22 23:41:00,7511
+33211400,Oakland Athletics @ New York Yankees,2024-04-22 17:06:00,7511
+33211401,Detroit Tigers @ Tampa Bay Rays,2024-04-22 22:51:00,7511
+33211404,Baltimore Orioles @ Los Angeles Angels,2024-04-23 01:39:00,7511
+33211395,Miami Marlins @ Atlanta Braves,2024-04-22 23:21:00,7511
+33211393,Philadelphia Phillies @ Cincinnati Reds,2024-04-22 22:41:00,7511
+33211398,San Diego Padres @ Colorado Rockies,2024-04-23 00:41:00,7511
+33211399,New York Mets @ San Francisco Giants,2024-04-23 01:46:00,7511
+33211397,Arizona Diamondbacks @ St. Louis Cardinals,2024-04-22 23:46:00,7511
+33214234,Miami Marlins @ Atlanta Braves,2024-04-23 23:21:00,7511
+33214235,Arizona Diamondbacks @ St. Louis Cardinals,2024-04-23 23:46:00,7511
+33214232,Milwaukee Brewers @ Pittsburgh Pirates,2024-04-23 22:41:00,7511
+33214233,Los Angeles Dodgers @ Washington Nationals,2024-04-23 22:46:00,7511
+33214238,Boston Red Sox @ Cleveland Guardians,2024-04-23 22:11:00,7511
+33214239,Detroit Tigers @ Tampa Bay Rays,2024-04-23 22:51:00,7511
+33214236,San Diego Padres @ Colorado Rockies,2024-04-24 00:41:00,7511
+33214237,New York Mets @ San Francisco Giants,2024-04-24 01:46:00,7511
+33214229,Philadelphia Phillies @ Cincinnati Reds,2024-04-23 22:41:00,7511
+33214242,Oakland Athletics @ New York Yankees,2024-04-23 23:06:00,7511
+33214243,Toronto Blue Jays @ Kansas City Royals,2024-04-23 23:41:00,7511
+33214246,Baltimore Orioles @ Los Angeles Angels,2024-04-24 01:39:00,7511
+33214247,Houston Astros @ Chicago Cubs,2024-04-23 23:41:00,7511
+33214244,Chicago White Sox @ Minnesota Twins,2024-04-23 23:41:00,7511
+33214245,Seattle Mariners @ Texas Rangers,2024-04-24 00:06:00,7511
+33216863,New York Mets @ San Francisco Giants,2024-04-24 19:46:00,7511
+33216860,Arizona Diamondbacks @ St. Louis Cardinals,2024-04-24 17:16:00,7511
+33216874,Chicago White Sox @ Minnesota Twins,2024-04-24 23:41:00,7511
+33216875,Seattle Mariners @ Texas Rangers,2024-04-25 00:06:00,7511
+33216872,Oakland Athletics @ New York Yankees,2024-04-24 23:06:00,7511
+33216873,Toronto Blue Jays @ Kansas City Royals,2024-04-24 23:41:00,7511
+33216876,Houston Astros @ Chicago Cubs,2024-04-24 23:41:00,7511
+33216866,Los Angeles Dodgers @ Washington Nationals,2024-04-24 22:46:00,7511
+33216867,Miami Marlins @ Atlanta Braves,2024-04-24 23:21:00,7511
+33216864,Philadelphia Phillies @ Cincinnati Reds,2024-04-24 22:41:00,7511
+33216865,Milwaukee Brewers @ Pittsburgh Pirates,2024-04-24 22:41:00,7511
+33216870,Baltimore Orioles @ Los Angeles Angels,2024-04-24 20:08:00,7511
+33216871,Detroit Tigers @ Tampa Bay Rays,2024-04-24 22:51:00,7511
+33216868,San Diego Padres @ Colorado Rockies,2024-04-25 00:41:00,7511
+33216869,Boston Red Sox @ Cleveland Guardians,2024-04-24 22:11:00,7511
+33219850,Boston Red Sox @ Cleveland Guardians,2024-04-25 17:11:00,7511
+33219851,Chicago White Sox @ Minnesota Twins,2024-04-25 17:11:00,7511
+33219848,Los Angeles Dodgers @ Washington Nationals,2024-04-25 20:06:00,7511
+33219854,Seattle Mariners @ Texas Rangers,2024-04-25 18:36:00,7511
+33219855,Houston Astros @ Chicago Cubs,2024-04-25 18:21:00,7511
+33219852,Toronto Blue Jays @ Kansas City Royals,2024-04-25 18:11:00,7511
+33219853,Oakland Athletics @ New York Yankees,2024-04-25 23:06:00,7511
+33219842,Milwaukee Brewers @ Pittsburgh Pirates,2024-04-25 16:36:00,7511
+33219846,San Diego Padres @ Colorado Rockies,2024-04-25 19:11:00,7511
+33219845,Philadelphia Phillies @ Cincinnati Reds,2024-04-25 17:11:00,7511
+33222808,Arizona Diamondbacks @ Seattle Mariners,2024-04-27 01:41:00,7511
+33222802,Chicago Cubs @ Boston Red Sox,2024-04-26 23:11:00,7511
+33222800,Minnesota Twins @ Los Angeles Angels,2024-04-27 01:39:00,7511
+33222801,Los Angeles Dodgers @ Toronto Blue Jays,2024-04-26 23:08:00,7511
+33222807,New York Yankees @ Milwaukee Brewers,2024-04-27 00:11:00,7511
+33222804,Cleveland Guardians @ Atlanta Braves,2024-04-26 23:21:00,7511
+33222805,Cincinnati Reds @ Texas Rangers,2024-04-27 00:06:00,7511
+33222795,Philadelphia Phillies @ San Diego Padres,2024-04-27 01:41:00,7511
+33222798,Oakland Athletics @ Baltimore Orioles,2024-04-26 23:06:00,7511
+33222799,Tampa Bay Rays @ Chicago White Sox,2024-04-26 23:41:00,7511
+33222796,Pittsburgh Pirates @ San Francisco Giants,2024-04-27 02:16:00,7511
+33222797,Kansas City Royals @ Detroit Tigers,2024-04-26 17:11:00,7511
+33222791,St. Louis Cardinals @ New York Mets,2024-04-26 23:11:00,7511
+33222789,Washington Nationals @ Miami Marlins,2024-04-26 23:11:00,7511
+33226010,Kansas City Royals @ Detroit Tigers,2024-04-27 22:11:00,7511
+33226011,Tampa Bay Rays @ Chicago White Sox,2024-04-27 23:11:00,7511
+33226008,Pittsburgh Pirates @ San Francisco Giants,2024-04-28 01:06:00,7511
+33226009,Oakland Athletics @ Baltimore Orioles,2024-04-27 20:06:00,7511
+33226014,Los Angeles Dodgers @ Toronto Blue Jays,2024-04-27 19:08:00,7511
+33226015,Cincinnati Reds @ Texas Rangers,2024-04-27 20:06:00,7511
+33226012,Minnesota Twins @ Los Angeles Angels,2024-04-28 01:39:00,7511
+33226013,Houston Astros @ Colorado Rockies,2024-04-27 22:06:00,7511
+33226002,St. Louis Cardinals @ New York Mets,2024-04-27 20:06:00,7511
+33226003,Washington Nationals @ Miami Marlins,2024-04-27 20:11:00,7511
+33226007,Philadelphia Phillies @ San Diego Padres,2024-04-28 00:41:00,7511
+33226018,Cleveland Guardians @ Atlanta Braves,2024-04-27 23:21:00,7511
+33226019,Arizona Diamondbacks @ Seattle Mariners,2024-04-28 01:41:00,7511
+33226016,Chicago Cubs @ Boston Red Sox,2024-04-27 20:11:00,7511
+33226017,New York Yankees @ Milwaukee Brewers,2024-04-27 23:11:00,7511
+33228659,Cleveland Guardians @ Atlanta Braves,2024-04-28 17:36:00,7511
+33228658,Houston Astros @ Colorado Rockies,2024-04-28 20:06:00,7511
+33228657,Chicago Cubs @ Boston Red Sox,2024-04-28 23:11:00,7511
+33228656,Minnesota Twins @ Los Angeles Angels,2024-04-28 20:08:00,7511
+33228663,Arizona Diamondbacks @ Seattle Mariners,2024-04-28 20:11:00,7511
+33228662,Cincinnati Reds @ Texas Rangers,2024-04-28 18:36:00,7511
+33228661,New York Yankees @ Milwaukee Brewers,2024-04-28 18:11:00,7511
+33228660,Los Angeles Dodgers @ Toronto Blue Jays,2024-04-28 17:38:00,7511
+33228651,Oakland Athletics @ Baltimore Orioles,2024-04-28 17:36:00,7511
+33228649,Philadelphia Phillies @ San Diego Padres,2024-04-28 20:11:00,7511
+33228648,Pittsburgh Pirates @ San Francisco Giants,2024-04-28 20:06:00,7511
+33228654,Tampa Bay Rays @ Chicago White Sox,2024-04-28 18:11:00,7511
+33228653,Kansas City Royals @ Detroit Tigers,2024-04-28 17:41:00,7511
+33228645,St. Louis Cardinals @ New York Mets,2024-04-28 17:41:00,7511
+33228644,Washington Nationals @ Miami Marlins,2024-04-28 17:41:00,7511
+33230898,Tampa Bay Rays @ Milwaukee Brewers,2024-04-29 23:41:00,7511
+33230901,Pittsburgh Pirates @ Oakland Athletics,2024-04-30 01:41:00,7511
+33230900,Atlanta Braves @ Seattle Mariners,2024-04-30 01:41:00,7511
+33230899,Philadelphia Phillies @ Los Angeles Angels,2024-04-30 01:39:00,7511
+33230897,St. Louis Cardinals @ Detroit Tigers,2024-04-29 22:41:00,7511
+33230896,Minnesota Twins @ Chicago White Sox,2024-04-29 23:41:00,7511
+33230890,Washington Nationals @ Miami Marlins,2024-04-29 22:41:00,7511
+33230895,Kansas City Royals @ Toronto Blue Jays,2024-04-29 23:08:00,7511
+33230894,New York Yankees @ Baltimore Orioles,2024-04-29 22:36:00,7511
+33230893,Cincinnati Reds @ San Diego Padres,2024-04-30 01:41:00,7511
+33230892,Chicago Cubs @ New York Mets,2024-04-29 23:11:00,7511
+33230887,Los Angeles Dodgers @ Arizona Diamondbacks,2024-04-30 01:41:00,7511
+33234938,St. Louis Cardinals @ Detroit Tigers,2024-04-30 19:41:00,7511
+33233690,Pittsburgh Pirates @ Oakland Athletics,2024-05-01 01:41:00,7511
+33233689,Atlanta Braves @ Seattle Mariners,2024-05-01 01:41:00,7511
+33233688,Philadelphia Phillies @ Los Angeles Angels,2024-05-01 01:39:00,7511
+33233683,Minnesota Twins @ Chicago White Sox,2024-04-30 23:41:00,7511
+33233682,Kansas City Royals @ Toronto Blue Jays,2024-04-30 23:08:00,7511
+33233681,New York Yankees @ Baltimore Orioles,2024-04-30 22:36:00,7511
+33233680,Cleveland Guardians @ Houston Astros,2024-05-01 00:11:00,7511
+33233687,Washington Nationals @ Texas Rangers,2024-05-01 00:06:00,7511
+33233686,Tampa Bay Rays @ Milwaukee Brewers,2024-04-30 23:41:00,7511
+33233685,San Francisco Giants @ Boston Red Sox,2024-04-30 23:11:00,7511
+33233684,St. Louis Cardinals @ Detroit Tigers,2024-04-30 22:41:00,7511
+33233679,Cincinnati Reds @ San Diego Padres,2024-05-01 01:41:00,7511
+33233678,Chicago Cubs @ New York Mets,2024-04-30 23:11:00,7511
+33233677,Colorado Rockies @ Miami Marlins,2024-04-30 22:41:00,7511
+33233676,Los Angeles Dodgers @ Arizona Diamondbacks,2024-05-01 01:41:00,7511
+33236091,Atlanta Braves (C Sale) @ Seattle Mariners (E Hanc,2024-05-01 19:41:00,7511
+33236090,Pittsburgh Pirates @ Oakland Athletics,2024-05-01 19:38:00,7511
+33236089,St. Louis Cardinals (M Mikolas) @ Detroit Tigers (,2024-05-01 17:11:00,7511
+33236094,Washington Nationals @ Texas Rangers,2024-05-02 00:06:00,7511
+33236093,San Francisco Giants @ Boston Red Sox,2024-05-01 23:11:00,7511
+33236092,Philadelphia Phillies @ Los Angeles Angels,2024-05-01 20:08:00,7511
+33236082,Minnesota Twins @ Chicago White Sox,2024-05-01 18:11:00,7511
+33236086,Tampa Bay Rays (Z Eflin) @ Milwaukee Brewers (C Re,2024-05-01 17:11:00,7511
+33236085,New York Yankees @ Baltimore Orioles,2024-05-01 22:36:00,7511
+33236084,Kansas City Royals (S Lugo) @ Toronto Blue Jays (C,2024-05-01 19:08:00,7511
+33236072,Los Angeles Dodgers @ Arizona Diamondbacks,2024-05-02 01:41:00,7511
+33236079,Cleveland Guardians (T McKenzie) @ Houston Astros ,2024-05-02 00:11:00,7511
+33236078,Chicago Cubs @ New York Mets,2024-05-01 23:11:00,7511
+33236077,Colorado Rockies @ Miami Marlins,2024-05-01 22:41:00,7511
+33236076,Cincinnati Reds (G Ashcraft) @ San Diego Padres (J,2024-05-01 20:11:00,7511
+33239019,New York Yankees @ Baltimore Orioles,2024-05-02 17:06:00,7511
+33239018,Cleveland Guardians @ Houston Astros,2024-05-03 00:11:00,7511
+33239017,Chicago Cubs @ New York Mets,2024-05-02 17:11:00,7511
+33239016,Colorado Rockies @ Miami Marlins,2024-05-02 16:11:00,7511
+33239021,Washington Nationals @ Texas Rangers,2024-05-02 18:36:00,7511
+33239020,San Francisco Giants @ Boston Red Sox,2024-05-02 17:36:00,7511
+33241834,Miami Marlins @ Oakland Athletics,2024-05-04 01:41:00,7511
+33241833,Chicago White Sox @ St. Louis Cardinals,2024-05-04 00:16:00,7511
+33241832,New York Mets @ Tampa Bay Rays,2024-05-03 22:51:00,7511
+33241831,Toronto Blue Jays @ Washington Nationals,2024-05-03 22:46:00,7511
+33241829,Baltimore Orioles @ Cincinnati Reds,2024-05-03 22:11:00,7511
+33241819,San Diego Padres @ Arizona Diamondbacks,2024-05-04 01:41:00,7511
+33241823,Atlanta Braves @ Los Angeles Dodgers,2024-05-04 02:11:00,7511
+33241822,San Francisco Giants @ Philadelphia Phillies,2024-05-03 22:41:00,7511
+33241821,Colorado Rockies @ Pittsburgh Pirates,2024-05-03 22:41:00,7511
+33241820,Milwaukee Brewers @ Chicago Cubs,2024-05-03 18:21:00,7511
+33241827,Texas Rangers @ Kansas City Royals,2024-05-03 23:41:00,7511
+33241826,Detroit Tigers @ New York Yankees,2024-05-03 23:06:00,7511
+33241825,Seattle Mariners @ Houston Astros,2024-05-04 00:11:00,7511
+33241824,Los Angeles Angels @ Cleveland Guardians,2024-05-03 23:11:00,7511
+33241828,Boston Red Sox @ Minnesota Twins,2024-05-04 00:11:00,7511
+33244390,San Francisco Giants @ Philadelphia Phillies,2024-05-04 22:06:00,7511
+33244389,Colorado Rockies @ Pittsburgh Pirates,2024-05-04 20:06:00,7511
+33244401,Baltimore Orioles @ Cincinnati Reds,2024-05-04 22:41:00,7511
+33244400,Miami Marlins @ Oakland Athletics,2024-05-04 20:08:00,7511
+33244395,Boston Red Sox @ Minnesota Twins,2024-05-04 18:11:00,7511
+33244394,Detroit Tigers @ New York Yankees,2024-05-04 17:06:00,7511
+33244393,Seattle Mariners @ Houston Astros,2024-05-04 23:16:00,7511
+33244392,Los Angeles Angels @ Cleveland Guardians,2024-05-04 22:11:00,7511
+33244399,Toronto Blue Jays @ Washington Nationals,2024-05-04 20:06:00,7511
+33244398,Chicago White Sox @ St. Louis Cardinals,2024-05-04 18:16:00,7511
+33244397,New York Mets @ Tampa Bay Rays,2024-05-04 23:16:00,7511
+33244396,Texas Rangers @ Kansas City Royals,2024-05-04 23:11:00,7511
+33244387,Milwaukee Brewers @ Chicago Cubs,2024-05-04 18:21:00,7511
+33244386,San Diego Padres @ Arizona Diamondbacks,2024-05-05 00:11:00,7511
+33244391,Atlanta Braves @ Los Angeles Dodgers,2024-05-05 01:11:00,7511
+33246834,Baltimore Orioles @ Cincinnati Reds,2024-05-05 20:11:00,7511
+33246833,Miami Marlins @ Oakland Athletics,2024-05-05 20:08:00,7511
+33246827,Detroit Tigers @ New York Yankees,2024-05-05 17:36:00,7511
+33246826,Seattle Mariners @ Houston Astros,2024-05-05 18:11:00,7511
+33246825,Los Angeles Angels @ Cleveland Guardians,2024-05-05 17:41:00,7511
+33246824,Atlanta Braves @ Los Angeles Dodgers,2024-05-05 20:11:00,7511
+33246831,New York Mets @ Tampa Bay Rays,2024-05-05 17:41:00,7511
+33246830,Toronto Blue Jays @ Washington Nationals,2024-05-05 17:36:00,7511
+33246829,Boston Red Sox @ Minnesota Twins,2024-05-05 18:11:00,7511
+33246828,Texas Rangers @ Kansas City Royals,2024-05-05 18:11:00,7511
+33246823,Milwaukee Brewers @ Chicago Cubs,2024-05-05 18:21:00,7511
+33246822,San Francisco Giants @ Philadelphia Phillies,2024-05-05 23:11:00,7511
+33246821,Colorado Rockies @ Pittsburgh Pirates,2024-05-05 17:36:00,7511
+33246820,San Diego Padres @ Arizona Diamondbacks,2024-05-05 20:11:00,7511
+33246832,Chicago White Sox @ St. Louis Cardinals,2024-05-05 18:16:00,7511
+33249034,Detroit Tigers @ Cleveland Guardians,2024-05-06 22:11:00,7511
+33249033,Miami Marlins @ Los Angeles Dodgers,2024-05-07 02:11:00,7511
+33249032,New York Mets @ St. Louis Cardinals,2024-05-06 23:46:00,7511
+33249039,Milwaukee Brewers @ Kansas City Royals,2024-05-06 23:41:00,7511
+33249038,Los Angeles Angels @ Pittsburgh Pirates,2024-05-06 22:41:00,7511
+33249037,Texas Rangers @ Oakland Athletics,2024-05-07 01:41:00,7511
+33249036,Seattle Mariners @ Minnesota Twins,2024-05-06 23:41:00,7511
+33249031,San Diego Padres @ Chicago Cubs,2024-05-06 23:41:00,7511
+33249030,San Francisco Giants @ Philadelphia Phillies,2024-05-06 20:06:00,7511
+33249035,Chicago White Sox @ Tampa Bay Rays,2024-05-06 22:51:00,7511
+33251739,New York Mets @ St. Louis Cardinals,2024-05-07 23:46:00,7511
+33251737,San Diego Padres @ Chicago Cubs,2024-05-07 23:41:00,7511
+33251736,Arizona Diamondbacks @ Cincinnati Reds,2024-05-07 22:41:00,7511
+33251743,San Francisco Giants @ Colorado Rockies,2024-05-08 00:41:00,7511
+33251755,Boston Red Sox @ Atlanta Braves,2024-05-07 23:21:00,7511
+33251754,Baltimore Orioles @ Washington Nationals,2024-05-07 22:46:00,7511
+33251753,Toronto Blue Jays @ Philadelphia Phillies,2024-05-07 22:41:00,7511
+33251752,Los Angeles Angels @ Pittsburgh Pirates,2024-05-07 22:41:00,7511
+33251756,Milwaukee Brewers @ Kansas City Royals,2024-05-07 23:41:00,7511
+33251747,Chicago White Sox @ Tampa Bay Rays,2024-05-07 22:51:00,7511
+33251746,Texas Rangers @ Oakland Athletics,2024-05-07 19:38:00,7511
+33251745,Detroit Tigers @ Cleveland Guardians,2024-05-07 22:11:00,7511
+33251744,Miami Marlins @ Los Angeles Dodgers,2024-05-08 02:11:00,7511
+33251751,Seattle Mariners @ Minnesota Twins,2024-05-07 23:41:00,7511
+33251750,Houston Astros @ New York Yankees,2024-05-07 23:06:00,7511
+33254523,Chicago White Sox @ Tampa Bay Rays,2024-05-08 22:51:00,7511
+33254522,Texas Rangers @ Oakland Athletics Game 1,2024-05-08 19:38:00,7511
+33254521,Detroit Tigers @ Cleveland Guardians,2024-05-08 17:11:00,7511
+33254520,Texas Rangers @ Oakland Athletics Game 2,2024-05-08 22:38:00,7511
+33254527,Toronto Blue Jays @ Philadelphia Phillies,2024-05-08 17:06:00,7511
+33254526,Los Angeles Angels @ Pittsburgh Pirates,2024-05-08 16:36:00,7511
+33254525,Seattle Mariners @ Minnesota Twins,2024-05-08 23:41:00,7511
+33254524,Houston Astros @ New York Yankees,2024-05-08 23:06:00,7511
+33254514,New York Mets @ St. Louis Cardinals,2024-05-08 17:16:00,7511
+33254519,San Francisco Giants @ Colorado Rockies,2024-05-09 00:41:00,7511
+33254518,Arizona Diamondbacks @ Cincinnati Reds,2024-05-08 22:41:00,7511
+33254517,Miami Marlins @ Los Angeles Dodgers,2024-05-08 19:11:00,7511
+33254516,San Diego Padres @ Chicago Cubs,2024-05-08 18:21:00,7511
+33254530,Boston Red Sox @ Atlanta Braves,2024-05-08 23:21:00,7511
+33254529,Baltimore Orioles @ Washington Nationals,2024-05-08 22:46:00,7511
+33254528,Milwaukee Brewers @ Kansas City Royals,2024-05-08 18:11:00,7511
+33257391,Arizona Diamondbacks @ Cincinnati Reds,2024-05-09 17:11:00,7511
+33257395,Houston Astros @ New York Yankees,2024-05-09 21:06:00,7511
+33257394,Seattle Mariners @ Minnesota Twins,2024-05-09 17:11:00,7511
+33257393,St. Louis Cardinals @ Milwaukee Brewers,2024-05-09 23:41:00,7511
+33257392,San Francisco Giants @ Colorado Rockies,2024-05-09 19:11:00,7511
+33257397,Kansas City Royals @ Los Angeles Angels,2024-05-10 01:39:00,7511
+33257396,Cleveland Guardians @ Chicago White Sox,2024-05-09 23:41:00,7511
+33259899,New York Yankees @ Tampa Bay Rays,2024-05-10 22:51:00,7511
+33259898,Houston Astros @ Detroit Tigers,2024-05-10 22:41:00,7511
+33259897,Cincinnati Reds @ San Francisco Giants,2024-05-11 02:16:00,7511
+33259896,Los Angeles Dodgers @ San Diego Padres,2024-05-11 01:41:00,7511
+33259903,Oakland Athletics @ Seattle Mariners,2024-05-11 01:41:00,7511
+33259902,Kansas City Royals @ Los Angeles Angels,2024-05-11 01:39:00,7511
+33259901,Cleveland Guardians @ Chicago White Sox,2024-05-10 23:41:00,7511
+33259900,Minnesota Twins @ Toronto Blue Jays,2024-05-10 23:08:00,7511
+33259891,Philadelphia Phillies @ Miami Marlins,2024-05-10 23:11:00,7511
+33259890,Atlanta Braves @ New York Mets,2024-05-10 23:11:00,7511
+33259893,St. Louis Cardinals @ Milwaukee Brewers,2024-05-11 00:11:00,7511
+33259906,Texas Rangers @ Colorado Rockies,2024-05-11 00:41:00,7511
+33259905,Washington Nationals @ Boston Red Sox,2024-05-10 23:11:00,7511
+33259904,Arizona Diamondbacks @ Baltimore Orioles,2024-05-10 23:06:00,7511
+33259888,Chicago Cubs @ Pittsburgh Pirates,2024-05-10 22:41:00,7511
+33262424,Texas Rangers @ Colorado Rockies,2024-05-12 00:11:00,7511
+33262419,Cleveland Guardians @ Chicago White Sox,2024-05-11 23:11:00,7511
+33262418,Houston Astros @ Detroit Tigers,2024-05-11 22:11:00,7511
+33262417,New York Yankees @ Tampa Bay Rays,2024-05-11 20:11:00,7511
+33262416,Minnesota Twins @ Toronto Blue Jays,2024-05-11 19:08:00,7511
+33262423,Washington Nationals @ Boston Red Sox,2024-05-11 20:11:00,7511
+33262422,Arizona Diamondbacks @ Baltimore Orioles,2024-05-11 20:06:00,7511
+33262421,Oakland Athletics @ Seattle Mariners,2024-05-12 01:41:00,7511
+33262420,Kansas City Royals @ Los Angeles Angels,2024-05-12 01:39:00,7511
+33262411,Atlanta Braves @ New York Mets,2024-05-11 20:11:00,7511
+33262410,Chicago Cubs @ Pittsburgh Pirates,2024-05-11 20:06:00,7511
+33262415,Los Angeles Dodgers @ San Diego Padres,2024-05-12 00:41:00,7511
+33262414,Cincinnati Reds @ San Francisco Giants,2024-05-11 23:16:00,7511
+33262413,Philadelphia Phillies @ Miami Marlins,2024-05-11 20:11:00,7511
+33262412,St. Louis Cardinals @ Milwaukee Brewers,2024-05-11 23:16:00,7511
+33265215,Atlanta Braves @ New York Mets,2024-05-12 23:11:00,7511
+33265227,Oakland Athletics @ Seattle Mariners,2024-05-12 20:11:00,7511
+33265224,Kansas City Royals @ Los Angeles Angels,2024-05-12 20:08:00,7511
+33265229,Washington Nationals @ Boston Red Sox,2024-05-12 17:36:00,7511
+33265228,Arizona Diamondbacks @ Baltimore Orioles,2024-05-12 17:36:00,7511
+33265219,Los Angeles Dodgers @ San Diego Padres,2024-05-12 20:11:00,7511
+33265218,Cincinnati Reds @ San Francisco Giants,2024-05-12 20:06:00,7511
+33265217,St. Louis Cardinals @ Milwaukee Brewers,2024-05-12 18:11:00,7511
+33265216,Philadelphia Phillies @ Miami Marlins,2024-05-12 17:41:00,7511
+33265223,Cleveland Guardians @ Chicago White Sox,2024-05-12 18:11:00,7511
+33265221,Houston Astros @ Detroit Tigers,2024-05-12 17:41:00,7511
+33265220,Minnesota Twins @ Toronto Blue Jays,2024-05-12 17:38:00,7511
+33265213,Chicago Cubs @ Pittsburgh Pirates,2024-05-12 17:36:00,7511
+33265230,Texas Rangers @ Colorado Rockies,2024-05-12 19:11:00,7511
+33265222,New York Yankees @ Tampa Bay Rays,2024-05-12 17:41:00,7511
+33267355,Tampa Bay Rays @ Boston Red Sox,2024-05-13 23:11:00,7511
+33267354,Toronto Blue Jays @ Baltimore Orioles,2024-05-13 22:36:00,7511
+33267353,Oakland Athletics @ Houston Astros,2024-05-14 00:11:00,7511
+33267352,Los Angeles Dodgers @ San Francisco Giants,2024-05-14 01:46:00,7511
+33267359,Washington Nationals @ Chicago White Sox,2024-05-13 23:41:00,7511
+33267358,Miami Marlins @ Detroit Tigers,2024-05-13 22:41:00,7511
+33267357,Kansas City Royals @ Seattle Mariners,2024-05-14 01:41:00,7511
+33267356,Cleveland Guardians @ Texas Rangers,2024-05-14 00:06:00,7511
+33267347,Cincinnati Reds @ Arizona Diamondbacks,2024-05-14 01:41:00,7511
+33267351,Colorado Rockies @ San Diego Padres,2024-05-14 01:41:00,7511
+33267350,Pittsburgh Pirates @ Milwaukee Brewers,2024-05-13 23:41:00,7511
+33267349,Chicago Cubs @ Atlanta Braves,2024-05-13 23:21:00,7511
+33267348,Philadelphia Phillies @ New York Mets,2024-05-13 23:11:00,7511
+33267360,St. Louis Cardinals @ Los Angeles Angels,2024-05-14 01:39:00,7511
+33270139,Kansas City Royals @ Seattle Mariners,2024-05-15 01:41:00,7511
+33270138,Cleveland Guardians @ Texas Rangers,2024-05-15 00:06:00,7511
+33271608,Washington Nationals @ Chicago White Sox,2024-05-14 20:41:00,7511
+33270136,New York Yankees @ Minnesota Twins,2024-05-14 23:41:00,7511
+33270143,St. Louis Cardinals @ Los Angeles Angels,2024-05-15 01:39:00,7511
+33270142,Washington Nationals @ Chicago White Sox,2024-05-14 23:41:00,7511
+33270140,Miami Marlins @ Detroit Tigers,2024-05-14 22:41:00,7511
+33270131,Los Angeles Dodgers @ San Francisco Giants,2024-05-15 01:46:00,7511
+33270129,Colorado Rockies @ San Diego Padres,2024-05-15 01:41:00,7511
+33270135,Tampa Bay Rays @ Boston Red Sox,2024-05-14 23:11:00,7511
+33270134,Toronto Blue Jays @ Baltimore Orioles,2024-05-14 22:36:00,7511
+33270132,Oakland Athletics @ Houston Astros,2024-05-15 00:11:00,7511
+33270123,Cincinnati Reds @ Arizona Diamondbacks,2024-05-15 01:41:00,7511
+33270127,Pittsburgh Pirates @ Milwaukee Brewers,2024-05-14 23:41:00,7511
+33270125,Chicago Cubs @ Atlanta Braves,2024-05-14 23:21:00,7511
+33270124,Philadelphia Phillies @ New York Mets,2024-05-14 17:11:00,7511
+33272736,Washington Nationals @ Chicago White Sox (Event 2),2024-05-15 18:11:00,7511
+33272731,Kansas City Royals @ Seattle Mariners,2024-05-15 20:11:00,7511
+33272730,Toronto Blue Jays @ Baltimore Orioles,2024-05-15 16:36:00,7511
+33272729,Oakland Athletics @ Houston Astros,2024-05-16 00:11:00,7511
+33272735,Miami Marlins @ Detroit Tigers,2024-05-15 17:11:00,7511
+33272734,Cleveland Guardians @ Texas Rangers,2024-05-16 00:06:00,7511
+33272733,New York Yankees @ Minnesota Twins,2024-05-15 23:41:00,7511
+33272732,Tampa Bay Rays @ Boston Red Sox,2024-05-15 23:11:00,7511
+33272723,New York Mets @ Philadelphia Phillies,2024-05-15 22:41:00,7511
+33272722,Colorado Rockies @ San Diego Padres,2024-05-15 20:11:00,7511
+33272721,Pittsburgh Pirates @ Milwaukee Brewers,2024-05-15 17:11:00,7511
+33272720,Cincinnati Reds @ Arizona Diamondbacks,2024-05-15 19:41:00,7511
+33272727,Los Angeles Dodgers @ San Francisco Giants,2024-05-16 01:46:00,7511
+33272725,Chicago Cubs @ Atlanta Braves,2024-05-15 23:21:00,7511
+33272739,St. Louis Cardinals @ Los Angeles Angels,2024-05-16 01:08:00,7511
+33275215,Oakland Athletics @ Houston Astros,2024-05-17 00:11:00,7511
+33275214,Cincinnati Reds @ Los Angeles Dodgers,2024-05-17 02:11:00,7511
+33275213,Pittsburgh Pirates @ Chicago Cubs,2024-05-16 23:41:00,7511
+33275212,New York Mets @ Philadelphia Phillies,2024-05-16 22:41:00,7511
+33275217,Tampa Bay Rays @ Boston Red Sox,2024-05-16 23:11:00,7511
+33275216,New York Yankees @ Minnesota Twins,2024-05-16 17:11:00,7511
+33278873,Pittsburgh Pirates @ Chicago Cubs,2024-05-17 18:21:00,7511
+33278878,New York Mets @ Miami Marlins,2024-05-17 23:11:00,7511
+33278876,Washington Nationals @ Philadelphia Phillies,2024-05-17 22:41:00,7511
+33278891,Milwaukee Brewers @ Houston Astros,2024-05-18 00:11:00,7511
+33278890,Detroit Tigers @ Arizona Diamondbacks,2024-05-18 01:41:00,7511
+33278889,Los Angeles Angels @ Texas Rangers,2024-05-18 00:06:00,7511
+33278888,Oakland Athletics @ Kansas City Royals,2024-05-17 23:41:00,7511
+33278892,Boston Red Sox @ St. Louis Cardinals,2024-05-18 00:16:00,7511
+33278883,Colorado Rockies @ San Francisco Giants,2024-05-18 02:16:00,7511
+33278882,Cincinnati Reds @ Los Angeles Dodgers,2024-05-18 02:11:00,7511
+33278881,San Diego Padres @ Atlanta Braves,2024-05-17 23:21:00,7511
+33278887,Tampa Bay Rays @ Toronto Blue Jays,2024-05-17 23:08:00,7511
+33278886,Seattle Mariners @ Baltimore Orioles,2024-05-17 23:06:00,7511
+33278885,Chicago White Sox @ New York Yankees,2024-05-17 23:06:00,7511
+33278884,Minnesota Twins @ Cleveland Guardians,2024-05-17 23:11:00,7511
+33281651,Boston Red Sox @ St. Louis Cardinals,2024-05-18 23:16:00,7511
+33281650,Milwaukee Brewers @ Houston Astros,2024-05-18 23:11:00,7511
+33281649,Detroit Tigers @ Arizona Diamondbacks,2024-05-19 00:11:00,7511
+33281648,Oakland Athletics @ Kansas City Royals,2024-05-18 23:11:00,7511
+33281643,Minnesota Twins @ Cleveland Guardians,2024-05-18 22:11:00,7511
+33281642,Cincinnati Reds @ Los Angeles Dodgers,2024-05-19 01:11:00,7511
+33281641,San Diego Padres @ Atlanta Braves,2024-05-18 23:16:00,7511
+33281640,Washington Nationals @ Philadelphia Phillies,2024-05-18 22:06:00,7511
+33281647,Los Angeles Angels @ Texas Rangers,2024-05-18 23:16:00,7511
+33281646,Seattle Mariners @ Baltimore Orioles,2024-05-18 20:06:00,7511
+33281645,Tampa Bay Rays @ Toronto Blue Jays,2024-05-18 19:08:00,7511
+33281644,Chicago White Sox @ New York Yankees,2024-05-18 17:06:00,7511
+33281639,New York Mets @ Miami Marlins,2024-05-18 20:11:00,7511
+33281638,Colorado Rockies @ San Francisco Giants,2024-05-18 20:06:00,7511
+33281637,Pittsburgh Pirates @ Chicago Cubs,2024-05-18 18:21:00,7511
+33284443,Washington Nationals @ Philadelphia Phillies,2024-05-19 17:36:00,7511
+33284446,New York Mets @ Miami Marlins,2024-05-19 17:41:00,7511
+33284445,San Diego Padres @ Atlanta Braves,2024-05-19 23:11:00,7511
+33284451,Chicago White Sox @ New York Yankees,2024-05-19 17:36:00,7511
+33284453,Seattle Mariners @ Baltimore Orioles,2024-05-19 17:36:00,7511
+33284447,Pittsburgh Pirates @ Chicago Cubs,2024-05-19 18:21:00,7511
+33284459,Boston Red Sox @ St. Louis Cardinals,2024-05-19 17:06:00,7511
+33284458,Detroit Tigers @ Arizona Diamondbacks,2024-05-19 20:11:00,7511
+33284457,Milwaukee Brewers @ Houston Astros,2024-05-19 18:11:00,7511
+33284456,Los Angeles Angels @ Texas Rangers,2024-05-19 18:36:00,7511
+33284450,Minnesota Twins @ Cleveland Guardians,2024-05-19 17:41:00,7511
+33284448,Colorado Rockies @ San Francisco Giants,2024-05-19 20:06:00,7511
+33284455,Oakland Athletics @ Kansas City Royals,2024-05-19 18:11:00,7511
+33284454,Tampa Bay Rays @ Toronto Blue Jays,2024-05-19 17:38:00,7511
+33284449,Cincinnati Reds (H Greene) @ Los Angeles Dodgers (,2024-05-19 20:11:00,7511
+33288447,San Diego Padres @ Atlanta Braves,2024-05-20 22:22:00,7511
+33286771,Minnesota Twins @ Washington Nationals,2024-05-20 22:46:00,7511
+33286770,New York Mets @ Cleveland Guardians,2024-05-20 22:11:00,7511
+33286769,Detroit Tigers @ Kansas City Royals,2024-05-20 23:41:00,7511
+33286768,Seattle Mariners @ New York Yankees,2024-05-20 23:06:00,7511
+33286773,Baltimore Orioles @ St. Louis Cardinals,2024-05-20 23:46:00,7511
+33286763,Milwaukee Brewers @ Miami Marlins,2024-05-20 22:41:00,7511
+33286762,San Diego Padres @ Atlanta Braves,2024-05-20 16:21:00,7511
+33286767,Boston Red Sox @ Tampa Bay Rays,2024-05-20 22:51:00,7511
+33286766,Chicago White Sox @ Toronto Blue Jays,2024-05-20 19:08:00,7511
+33286765,Los Angeles Angels @ Houston Astros,2024-05-21 00:11:00,7511
+33286764,Arizona Diamondbacks @ Los Angeles Dodgers,2024-05-21 02:11:00,7511
+33289595,Arizona Diamondbacks @ Los Angeles Dodgers,2024-05-22 02:11:00,7511
+33289594,Atlanta Braves @ Chicago Cubs,2024-05-21 23:41:00,7511
+33289593,Milwaukee Brewers @ Miami Marlins,2024-05-21 22:41:00,7511
+33289592,San Francisco Giants @ Pittsburgh Pirates,2024-05-21 22:41:00,7511
+33289599,Chicago White Sox @ Toronto Blue Jays,2024-05-21 23:08:00,7511
+33289598,Seattle Mariners @ New York Yankees,2024-05-21 23:06:00,7511
+33289597,Boston Red Sox @ Tampa Bay Rays,2024-05-21 22:51:00,7511
+33289596,Los Angeles Angels @ Houston Astros,2024-05-22 00:11:00,7511
+33289590,San Diego Padres @ Cincinnati Reds,2024-05-21 22:41:00,7511
+33289603,Minnesota Twins @ Washington Nationals,2024-05-21 22:46:00,7511
+33289602,Texas Rangers @ Philadelphia Phillies,2024-05-21 22:41:00,7511
+33289601,New York Mets @ Cleveland Guardians,2024-05-21 22:11:00,7511
+33289600,Detroit Tigers @ Kansas City Royals,2024-05-21 23:41:00,7511
+33289605,Colorado Rockies @ Oakland Athletics,2024-05-22 01:41:00,7511
+33289604,Baltimore Orioles @ St. Louis Cardinals,2024-05-21 23:46:00,7511
+33292828,Arizona Diamondbacks @ Los Angeles Dodgers,2024-05-23 02:11:00,7511
+33292829,Los Angeles Angels @ Houston Astros,2024-05-22 18:11:00,7511
+33292830,Detroit Tigers @ Kansas City Royals,2024-05-22 18:11:00,7511
+33292831,Boston Red Sox @ Tampa Bay Rays,2024-05-22 22:51:00,7511
+33292824,San Diego Padres @ Cincinnati Reds,2024-05-22 22:41:00,7511
+33292826,San Francisco Giants @ Pittsburgh Pirates,2024-05-22 22:41:00,7511
+33292827,Atlanta Braves @ Chicago Cubs,2024-05-22 23:41:00,7511
+33292823,Milwaukee Brewers @ Miami Marlins,2024-05-22 22:41:00,7511
+33292836,Baltimore Orioles (J Means) @ St. Louis Cardinals ,2024-05-22 17:06:00,7511
+33292837,Texas Rangers @ Philadelphia Phillies,2024-05-22 22:41:00,7511
+33292838,Colorado Rockies @ Oakland Athletics,2024-05-23 01:41:00,7511
+33292832,Seattle Mariners @ New York Yankees,2024-05-22 23:06:00,7511
+33292833,Chicago White Sox @ Toronto Blue Jays,2024-05-22 23:08:00,7511
+33292834,New York Mets @ Cleveland Guardians,2024-05-22 17:11:00,7511
+33292835,Minnesota Twins @ Washington Nationals,2024-05-22 17:06:00,7511
+33295484,San Francisco Giants @ Pittsburgh Pirates,2024-05-23 16:36:00,7511
+33295487,San Diego Padres @ Cincinnati Reds,2024-05-23 17:11:00,7511
+33295492,Texas Rangers @ Philadelphia Phillies,2024-05-23 17:06:00,7511
+33295493,Colorado Rockies @ Oakland Athletics,2024-05-23 19:38:00,7511
+33295488,Atlanta Braves @ Chicago Cubs,2024-05-23 18:21:00,7511
+33295489,Seattle Mariners @ New York Yankees,2024-05-23 16:36:00,7511
+33295490,Toronto Blue Jays @ Detroit Tigers,2024-05-23 22:41:00,7511
+33295491,Baltimore Orioles @ Chicago White Sox,2024-05-23 23:41:00,7511
+33297916,Houston Astros @ Oakland Athletics,2024-05-25 01:41:00,7511
+33297917,Seattle Mariners @ Washington Nationals,2024-05-24 22:46:00,7511
+33297918,Milwaukee Brewers @ Boston Red Sox,2024-05-24 23:11:00,7511
+33297919,New York Yankees @ San Diego Padres,2024-05-25 01:41:00,7511
+33297912,Kansas City Royals @ Tampa Bay Rays,2024-05-24 22:51:00,7511
+33297913,Baltimore Orioles @ Chicago White Sox,2024-05-24 23:41:00,7511
+33297914,Texas Rangers @ Minnesota Twins,2024-05-24 23:11:00,7511
+33297915,Cleveland Guardians @ Los Angeles Angels,2024-05-25 01:39:00,7511
+33297908,Los Angeles Dodgers @ Cincinnati Reds,2024-05-24 23:11:00,7511
+33297909,Chicago Cubs @ St. Louis Cardinals,2024-05-25 00:16:00,7511
+33297910,Philadelphia Phillies @ Colorado Rockies,2024-05-25 00:41:00,7511
+33297911,Toronto Blue Jays @ Detroit Tigers,2024-05-24 22:41:00,7511
+33297904,San Francisco Giants @ New York Mets,2024-05-24 23:11:00,7511
+33297906,Miami Marlins @ Arizona Diamondbacks,2024-05-25 01:41:00,7511
+33297907,Atlanta Braves  @ Pittsburgh Pirates,2024-05-24 22:41:00,7511
+33301052,Texas Rangers @ Minnesota Twins,2024-05-25 18:11:00,7511
+33301053,Baltimore Orioles @ Chicago White Sox,2024-05-25 18:11:00,7511
+33301054,Houston Astros @ Oakland Athletics,2024-05-25 20:08:00,7511
+33301055,Kansas City Royals @ Tampa Bay Rays,2024-05-25 20:11:00,7511
+33301048,Chicago Cubs @ St. Louis Cardinals,2024-05-25 23:16:00,7511
+33301049,Los Angeles Dodgers @ Cincinnati Reds,2024-05-25 23:16:00,7511
+33301050,Toronto Blue Jays @ Detroit Tigers,2024-05-25 17:11:00,7511
+33301051,Philadelphia Phillies @ Colorado Rockies,2024-05-26 01:11:00,7511
+33301045,San Francisco Giants @ New York Mets,2024-05-25 17:41:00,7511
+33301046,Miami Marlins @ Arizona Diamondbacks,2024-05-26 02:11:00,7511
+33301047,Atlanta Braves @ Pittsburgh Pirates,2024-05-25 20:06:00,7511
+33301056,Cleveland Guardians @ Los Angeles Angels,2024-05-26 01:39:00,7511
+33301057,Seattle Mariners @ Washington Nationals,2024-05-25 20:06:00,7511
+33301058,Milwaukee Brewers @ Boston Red Sox,2024-05-25 20:11:00,7511
+33301059,New York Yankees @ San Diego Padres,2024-05-26 01:41:00,7511
+33303793,Milwaukee Brewers @ Boston Red Sox,2024-05-26 17:36:00,7511
+33303794,New York Yankees @ San Diego Padres,2024-05-26 20:11:00,7511
+33303791,Houston Astros @ Oakland Athletics,2024-05-26 20:08:00,7511
+33303784,Philadelphia Phillies @ Colorado Rockies,2024-05-26 19:11:00,7511
+33303785,Kansas City Royals @ Tampa Bay Rays,2024-05-26 17:41:00,7511
+33303786,Toronto Blue Jays @ Detroit Tigers,2024-05-26 15:36:00,7511
+33303787,Baltimore Orioles @ Chicago White Sox,2024-05-26 18:11:00,7511
+33303780,Miami Marlins @ Arizona Diamondbacks,2024-05-26 20:11:00,7511
+33303781,Atlanta Braves @ Pittsburgh Pirates,2024-05-26 17:36:00,7511
+33303782,Los Angeles Dodgers @ Cincinnati Reds,2024-05-26 16:11:00,7511
+33303783,Chicago Cubs @ St. Louis Cardinals,2024-05-26 23:11:00,7511
+33303779,San Francisco Giants @ New York Mets,2024-05-26 17:41:00,7511
+33303792,Seattle Mariners @ Washington Nationals,2024-05-26 17:36:00,7511
+33303790,Cleveland Guardians @ Los Angeles Angels,2024-05-26 20:08:00,7511
+33303788,Texas Rangers @ Minnesota Twins,2024-05-26 18:11:00,7511
+33305679,Los Angeles Dodgers @ New York Mets,2024-05-27 20:11:00,7511
+33305688,Houston Astros @ Seattle Mariners,2024-05-28 01:41:00,7511
+33305689,Cleveland Guardians @ Colorado Rockies,2024-05-27 20:11:00,7511
+33305684,Miami Marlins @ San Diego Padres,2024-05-27 22:41:00,7511
+33305685,Boston Red Sox @ Baltimore Orioles,2024-05-27 17:06:00,7511
+33305686,Toronto Blue Jays @ Chicago White Sox,2024-05-27 18:11:00,7511
+33305687,Kansas City Royals @ Minnesota Twins,2024-05-27 18:11:00,7511
+33305680,Philadelphia Phillies @ San Francisco Giants,2024-05-27 21:06:00,7511
+33305681,Washington Nationals @ Atlanta Braves,2024-05-27 20:11:00,7511
+33305682,St. Louis Cardinals @ Cincinnati Reds,2024-05-27 20:11:00,7511
+33305683,Chicago Cubs @ Milwaukee Brewers,2024-05-27 20:11:00,7511
+33307676,Miami Marlins @ San Diego Padres,2024-05-29 01:41:00,7511
+33307678,Boston Red Sox @ Baltimore Orioles,2024-05-28 22:36:00,7511
+33307673,St. Louis Cardinals @ Cincinnati Reds,2024-05-28 22:41:00,7511
+33307674,Washington Nationals @ Atlanta Braves,2024-05-28 23:21:00,7511
+33307675,Chicago Cubs @ Milwaukee Brewers,2024-05-28 23:41:00,7511
+33307671,Los Angeles Dodgers @ New York Mets Game2,2024-05-28 23:11:00,7511
+33308619,Los Angeles Dodgers @ New York Mets Game1,2024-05-28 20:11:00,7511
+33307684,Pittsburgh Pirates @ Detroit Tigers,2024-05-28 22:41:00,7511
+33307686,Cleveland Guardians @ Colorado Rockies,2024-05-29 00:41:00,7511
+33307680,Kansas City Royals @ Minnesota Twins,2024-05-28 23:41:00,7511
+33307681,Toronto Blue Jays @ Chicago White Sox,2024-05-28 23:41:00,7511
+33307682,New York Yankees @ Los Angeles Angels,2024-05-29 01:39:00,7511
+33307683,Houston Astros @ Seattle Mariners,2024-05-29 01:41:00,7511
+33307677,Philadelphia Phillies @ San Francisco Giants,2024-05-29 01:46:00,7511
+33307679,Oakland Athletics @ Tampa Bay Rays,2024-05-28 22:51:00,7511
+33307685,Arizona Diamondbacks @ Texas Rangers,2024-05-29 00:06:00,7511
+33310228,Pittsburgh Pirates @ Detroit Tigers,2024-05-29 20:01:00,7511
+33310229,Arizona Diamondbacks @ Texas Rangers,2024-05-29 18:36:00,7511
+33310230,Cleveland Guardians @ Colorado Rockies,2024-05-30 00:41:00,7511
+33310225,New York Yankees @ Los Angeles Angels,2024-05-30 01:39:00,7511
+33310227,Houston Astros @ Seattle Mariners,2024-05-30 01:41:00,7511
+33310220,Boston Red Sox @ Baltimore Orioles,2024-05-29 22:36:00,7511
+33310221,Oakland Athletics @ Tampa Bay Rays,2024-05-29 22:51:00,7511
+33310222,Kansas City Royals @ Minnesota Twins,2024-05-29 23:41:00,7511
+33310223,Toronto Blue Jays @ Chicago White Sox,2024-05-29 23:41:00,7511
+33310216,Philadelphia Phillies @ San Francisco Giants,2024-05-29 19:46:00,7511
+33310217,Miami Marlins @ San Diego Padres,2024-05-29 20:11:00,7511
+33310218,Washington Nationals @ Atlanta Braves,2024-05-29 23:21:00,7511
+33310219,Chicago Cubs @ Milwaukee Brewers,2024-05-29 23:41:00,7511
+33310213,Los Angeles Dodgers @ New York Mets,2024-05-29 20:11:00,7511
+33310215,St. Louis Cardinals @ Cincinnati Reds,2024-05-29 17:11:00,7511
+33311630,Pittsburgh Pirates @ Detroit Tigers Game 1,2024-05-29 16:41:00,7511
+33312776,Houston Astros @ Seattle Mariners,2024-05-30 20:11:00,7511
+33312777,Detroit Tigers @ Boston Red Sox,2024-05-30 23:11:00,7511
+33312778,New York Yankees @ Los Angeles Angels,2024-05-31 01:39:00,7511
+33312772,Chicago Cubs @ Milwaukee Brewers,2024-05-30 17:11:00,7511
+33312773,Washington Nationals @ Atlanta Braves,2024-05-30 23:21:00,7511
+33312775,Kansas City Royals @ Minnesota Twins,2024-05-30 17:11:00,7511
+33312771,Arizona Diamondbacks @ New York Mets,2024-05-30 23:11:00,7511
+33312774,Oakland Athletics @ Tampa Bay Rays,2024-05-30 17:11:00,7511
+33314908,Colorado Rockies @ Los Angeles Dodgers,2024-06-01 02:11:00,7511
+33314909,Minnesota Twins @ Houston Astros,2024-06-01 00:11:00,7511
+33314910,Tampa Bay Rays @ Baltimore Orioles,2024-05-31 23:06:00,7511
+33314911,Detroit Tigers @ Boston Red Sox,2024-05-31 23:11:00,7511
+33314905,Arizona Diamondbacks @ New York Mets,2024-05-31 23:11:00,7511
+33314906,Cincinnati Reds @ Chicago Cubs,2024-05-31 18:21:00,7511
+33314907,St. Louis Cardinals @ Philadelphia Phillies,2024-05-31 22:41:00,7511
+33314916,Oakland Athletics @ Atlanta Braves,2024-05-31 23:21:00,7511
+33314917,San Diego Padres @ Kansas City Royals,2024-06-01 00:11:00,7511
+33314918,Chicago White Sox @ Milwaukee Brewers,2024-06-01 00:11:00,7511
+33314919,New York Yankees @ San Francisco Giants,2024-06-01 02:16:00,7511
+33314912,Los Angeles Angels @ Seattle Mariners,2024-06-01 02:11:00,7511
+33314913,Washington Nationals @ Cleveland Guardians,2024-05-31 23:11:00,7511
+33314914,Pittsburgh Pirates @ Toronto Blue Jays,2024-05-31 23:08:00,7511
+33314915,Texas Rangers @ Miami Marlins,2024-05-31 23:11:00,7511
+33317215,Arizona Diamondbacks @ New York Mets,2024-06-01 20:11:00,7511
+33317228,San Diego Padres @ Kansas City Royals,2024-06-01 20:11:00,7511
+33317229,New York Yankees @ San Francisco Giants,2024-06-02 02:06:00,7511
+33317224,Pittsburgh Pirates @ Toronto Blue Jays,2024-06-01 19:08:00,7511
+33317225,Oakland Athletics @ Atlanta Braves,2024-06-01 20:11:00,7511
+33317226,Texas Rangers @ Miami Marlins,2024-06-01 20:11:00,7511
+33317227,Chicago White Sox @ Milwaukee Brewers,2024-06-01 20:11:00,7511
+33317220,Tampa Bay Rays @ Baltimore Orioles,2024-06-01 20:06:00,7511
+33317221,Detroit Tigers @ Boston Red Sox,2024-06-01 20:11:00,7511
+33317222,Los Angeles Angels @ Seattle Mariners,2024-06-01 23:16:00,7511
+33317223,Washington Nationals @ Cleveland Guardians,2024-06-01 20:11:00,7511
+33317216,Cincinnati Reds @ Chicago Cubs,2024-06-01 23:16:00,7511
+33317217,St. Louis Cardinals @ Philadelphia Phillies,2024-06-01 23:16:00,7511
+33317218,Colorado Rockies @ Los Angeles Dodgers,2024-06-02 02:11:00,7511
+33317219,Minnesota Twins @ Houston Astros,2024-06-01 20:11:00,7511
+33319548,Oakland Athletics @ Atlanta Braves,2024-06-02 17:36:00,7511
+33319549,Pittsburgh Pirates @ Toronto Blue Jays,2024-06-02 17:38:00,7511
+33319550,Texas Rangers @ Miami Marlins,2024-06-02 17:41:00,7511
+33319551,Chicago White Sox @ Milwaukee Brewers,2024-06-02 18:11:00,7511
+33319544,Tampa Bay Rays @ Baltimore Orioles,2024-06-02 17:36:00,7511
+33319545,Detroit Tigers @ Boston Red Sox,2024-06-02 17:36:00,7511
+33319546,Los Angeles Angels @ Seattle Mariners,2024-06-02 20:11:00,7511
+33319547,Washington Nationals @ Cleveland Guardians,2024-06-02 17:41:00,7511
+33319540,St. Louis Cardinals @ Philadelphia Phillies,2024-06-02 23:11:00,7511
+33319542,Colorado Rockies @ Los Angeles Dodgers,2024-06-02 20:11:00,7511
+33319543,Minnesota Twins @ Houston Astros,2024-06-02 17:06:00,7511
+33319539,Arizona Diamondbacks @ New York Mets,2024-06-02 17:41:00,7511
+33319552,San Diego Padres @ Kansas City Royals,2024-06-02 18:11:00,7511
+33319553,New York Yankees @ San Francisco Giants,2024-06-02 20:06:00,7511
+33319541,Cincinnati Reds @ Chicago Cubs,2024-06-02 18:21:00,7511
+33321324,Cincinnati Reds @ Colorado Rockies,2024-06-04 00:41:00,7511
+33321325,Baltimore Orioles @ Toronto Blue Jays,2024-06-03 23:08:00,7511
+33321326,Detroit Tigers @ Texas Rangers,2024-06-04 00:06:00,7511
+33321327,St. Louis Cardinals @ Houston Astros,2024-06-04 00:11:00,7511
+33321321,San Francisco Giants @ Arizona Diamondbacks,2024-06-04 01:41:00,7511
+33321322,Milwaukee Brewers @ Philadelphia Phillies,2024-06-03 22:41:00,7511
+33321323,New York Mets @ Washington Nationals,2024-06-03 22:46:00,7511
+33321328,San Diego Padres @ Los Angeles Angels,2024-06-04 01:39:00,7511
+33323276,Tampa Bay Rays @ Miami Marlins,2024-06-04 22:41:00,7511
+33323277,Atlanta Braves @ Boston Red Sox,2024-06-04 23:11:00,7511
+33323278,Chicago White Sox @ Chicago Cubs,2024-06-05 00:06:00,7511
+33323279,San Diego Padres @ Los Angeles Angels,2024-06-05 01:39:00,7511
+33323272,Baltimore Orioles @ Toronto Blue Jays,2024-06-04 23:08:00,7511
+33323273,Detroit Tigers @ Texas Rangers,2024-06-05 00:06:00,7511
+33323274,Seattle Mariners @ Oakland Athletics,2024-06-05 01:41:00,7511
+33323275,St. Louis Cardinals @ Houston Astros,2024-06-05 00:11:00,7511
+33323268,New York Mets @ Washington Nationals,2024-06-04 22:46:00,7511
+33323269,Cincinnati Reds @ Colorado Rockies,2024-06-05 00:41:00,7511
+33323270,Kansas City Royals @ Cleveland Guardians,2024-06-04 22:41:00,7511
+33323271,Minnesota Twins @ New York Yankees,2024-06-04 23:06:00,7511
+33323265,San Francisco Giants @ Arizona Diamondbacks,2024-06-05 01:41:00,7511
+33323266,Los Angeles Dodgers @ Pittsburgh Pirates,2024-06-04 22:41:00,7511
+33323267,Milwaukee Brewers @ Philadelphia Phillies,2024-06-04 22:41:00,7511
+33325439,San Francisco Giants @ Arizona Diamondbacks,2024-06-05 19:41:00,7511
+33325452,Chicago White Sox @ Chicago Cubs,2024-06-06 00:06:00,7511
+33325453,San Diego Padres @ Los Angeles Angels,2024-06-06 01:39:00,7511
+33325448,Seattle Mariners @ Oakland Athletics,2024-06-06 01:41:00,7511
+33325449,St. Louis Cardinals @ Houston Astros,2024-06-05 18:11:00,7511
+33325450,Atlanta Braves @ Boston Red Sox,2024-06-05 17:36:00,7511
+33325451,Tampa Bay Rays @ Miami Marlins,2024-06-05 22:41:00,7511
+33325444,Kansas City Royals @ Cleveland Guardians,2024-06-05 22:41:00,7511
+33325445,Minnesota Twins @ New York Yankees,2024-06-05 23:06:00,7511
+33325446,Baltimore Orioles @ Toronto Blue Jays,2024-06-05 23:08:00,7511
+33325447,Detroit Tigers @ Texas Rangers,2024-06-06 00:06:00,7511
+33325440,Cincinnati Reds @ Colorado Rockies,2024-06-05 19:11:00,7511
+33325442,New York Mets @ Washington Nationals,2024-06-05 20:06:00,7511
+33325443,Los Angeles Dodgers @ Pittsburgh Pirates,2024-06-05 22:41:00,7511
+33325441,Milwaukee Brewers @ Philadelphia Phillies,2024-06-05 20:06:00,7511
+33327932,Atlanta Braves @ Washington Nationals,2024-06-06 22:46:00,7511
+33327933,Chicago Cubs @ Cincinnati Reds,2024-06-06 23:11:00,7511
+33327934,Colorado Rockies @ St. Louis Cardinals,2024-06-06 23:46:00,7511
+33327931,Los Angeles Dodgers @ Pittsburgh Pirates,2024-06-06 22:41:00,7511
+33327940,Minnesota Twins @ New York Yankees,2024-06-06 23:06:00,7511
+33327941,Boston Red Sox @ Chicago White Sox,2024-06-07 00:11:00,7511
+33327936,Arizona Diamondbacks @ San Diego Padres,2024-06-07 01:41:00,7511
+33327939,Seattle Mariners @ Oakland Athletics,2024-06-06 19:38:00,7511
+33327937,Kansas City Royals @ Cleveland Guardians,2024-06-06 17:11:00,7511
+33327938,Baltimore Orioles @ Toronto Blue Jays,2024-06-06 17:08:00,7511
+33330068,Milwaukee Brewers @ Detroit Tigers,2024-06-07 22:41:00,7511
+33330069,Los Angeles Dodgers @ New York Yankees,2024-06-07 23:06:00,7511
+33330070,Cleveland Guardians @ Miami Marlins,2024-06-07 23:11:00,7511
+33330071,San Francisco Giants @ Texas Rangers,2024-06-08 00:06:00,7511
+33330064,Seattle Mariners @ Kansas City Royals,2024-06-08 00:11:00,7511
+33330065,Toronto Blue Jays @ Oakland Athletics,2024-06-08 01:41:00,7511
+33330066,Houston Astros @ Los Angeles Angels,2024-06-08 01:39:00,7511
+33330067,Minnesota Twins @ Pittsburgh Pirates,2024-06-07 22:41:00,7511
+33330060,Chicago Cubs @ Cincinnati Reds,2024-06-07 23:11:00,7511
+33330061,Arizona Diamondbacks @ San Diego Padres,2024-06-08 01:41:00,7511
+33330062,Baltimore Orioles @ Tampa Bay Rays,2024-06-07 22:51:00,7511
+33330063,Boston Red Sox @ Chicago White Sox,2024-06-08 00:11:00,7511
+33330058,Atlanta Braves @ Washington Nationals,2024-06-07 22:46:00,7511
+33330059,Colorado Rockies @ St. Louis Cardinals,2024-06-08 00:16:00,7511
+33332508,Houston Astros @ Los Angeles Angels,2024-06-09 02:08:00,7511
+33332509,Minnesota Twins @ Pittsburgh Pirates,2024-06-08 20:06:00,7511
+33332511,Milwaukee Brewers @ Detroit Tigers,2024-06-08 20:11:00,7511
+33332504,Toronto Blue Jays @ Oakland Athletics,2024-06-08 20:08:00,7511
+33332505,Boston Red Sox @ Chicago White Sox,2024-06-08 20:11:00,7511
+33332506,Seattle Mariners @ Kansas City Royals,2024-06-08 20:11:00,7511
+33332507,Baltimore Orioles @ Tampa Bay Rays,2024-06-08 20:11:00,7511
+33332501,Chicago Cubs @ Cincinnati Reds,2024-06-08 20:11:00,7511
+33332502,Colorado Rockies @ St. Louis Cardinals,2024-06-08 20:16:00,7511
+33332503,Arizona Diamondbacks @ San Diego Padres,2024-06-09 00:41:00,7511
+33332496,Philadelphia Phillies @ New York Mets,2024-06-08 17:11:00,7511
+33332499,Atlanta Braves @ Washington Nationals,2024-06-08 20:06:00,7511
+33332512,Cleveland Guardians @ Miami Marlins,2024-06-08 23:36:00,7511
+33332513,Los Angeles Dodgers @ New York Yankees,2024-06-08 23:36:00,7511
+33332510,San Francisco Giants @ Texas Rangers,2024-06-08 20:06:00,7511
